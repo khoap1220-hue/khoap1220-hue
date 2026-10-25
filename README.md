@@ -47,7 +47,7 @@ While commercial source code remains in private repositories under client NDA or
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(23 Public Pull Requests across 15 Repositories • 7 Peer-Reviewed ✅)*
+### 🚀 Selected Open-Source Contributions *(23 Public Pull Requests across 14 Repositories • 7 Peer-Reviewed ✅)*
 
 | Repository | Stack | Engineering Scope & Contribution | Reference & Review Status |
 | :--- | :--- | :--- | :--- |
@@ -63,8 +63,7 @@ While commercial source code remains in private repositories under client NDA or
 | **[speakers-in-tech/conference-data](https://github.com/speakers-in-tech/conference-data)** | `JSON` `Data Curation` | Developer conference registry & structured event metadata automation | [PR #411](https://github.com/speakers-in-tech/conference-data/pull/411) |
 | **[AURORALAOrg/aurora-backend](https://github.com/AURORALAOrg/aurora-backend)** | `TypeScript` `Express` `OpenAI API` | Real-time AI conversational endpoint (`POST /api/v1/chat/ai`) & token streaming | [PR #92 ✅ Reviewed](https://github.com/AURORALAOrg/aurora-backend/pull/92) |
 | **[Crypto-Jaguars/Revo-Backend](https://github.com/Crypto-Jaguars/Revo-Backend)** | `TypeScript` `NestJS` `PostgreSQL` | Product inventory state machine & seasonal availability management API | [PR #107 ✅ Reviewed](https://github.com/Crypto-Jaguars/Revo-Backend/pull/107) |
-| **[solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)** | `Open-Source` | docs(pda-rent-payer): add caller authority check security note (#671) | [PR #760](https://github.com/solana-foundation/program-examples/pull/760) |
-| **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** | `Open-Source` | fix(webapp): hide and reject native (Git-based) deployments in self-hosted instances | [PR #5064 ⭐ Reviewed](https://github.com/triggerdotdev/trigger.dev/pull/5064) |
+| **[solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)** | `Open-Source` | docs(pda-rent-payer): add caller authority check security note (#671) | [PR #759 ⭐ Reviewed](https://github.com/solana-foundation/program-examples/pull/759) / [PR #760](https://github.com/solana-foundation/program-examples/pull/760) |
 | **[BasedHardware/omi](https://github.com/BasedHardware/omi)** | `Open-Source` | fix(billing): allow JPY subscribers to view and change plans in-app | [PR #23597](https://github.com/BasedHardware/omi/pull/23597) |
 
 ---
