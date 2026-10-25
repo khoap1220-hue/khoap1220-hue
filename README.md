@@ -47,7 +47,7 @@ While commercial source code remains in private repositories under client NDA or
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(21 Public Pull Requests across 13 Repositories • 5 Peer-Reviewed ✅)*
+### 🚀 Selected Open-Source Contributions *(20 Public Pull Requests across 12 Repositories • 4 Peer-Reviewed ✅)*
 
 | Repository | Stack | Engineering Scope & Contribution | Reference & Review Status |
 | :--- | :--- | :--- | :--- |
@@ -61,9 +61,8 @@ While commercial source code remains in private repositories under client NDA or
 | **[PG-AGI/toingg-jarvis](https://github.com/PG-AGI/toingg-jarvis)** | `Python` `Go` `Fyne GUI` | Cross-platform desktop GUI controller, Playwright multipart uploads & native installers (`.exe/.deb/.dmg`) | [PR #92](https://github.com/PG-AGI/toingg-jarvis/pull/92) / [PR #93](https://github.com/PG-AGI/toingg-jarvis/pull/93) / [PR #94](https://github.com/PG-AGI/toingg-jarvis/pull/94) / [PR #95](https://github.com/PG-AGI/toingg-jarvis/pull/95) / [PR #96](https://github.com/PG-AGI/toingg-jarvis/pull/96) / [PR #97](https://github.com/PG-AGI/toingg-jarvis/pull/97) |
 | **[lablab-ai/community-content](https://github.com/lablab-ai/community-content)** | `Markdown` `AI Tutorials` `Vectara` | Technical AI hackathon architecture guides & Vectara RAG implementation tutorials | [PR #1097](https://github.com/lablab-ai/community-content/pull/1097) |
 | **[speakers-in-tech/conference-data](https://github.com/speakers-in-tech/conference-data)** | `JSON` `Data Curation` | Developer conference registry & structured event metadata automation | [PR #411](https://github.com/speakers-in-tech/conference-data/pull/411) |
-| **[solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)** | `Open-Source` | docs(pda-rent-payer): add caller authority notes across anchor, native, and pinocchio (#671) | [PR #759 ⭐ Reviewed](https://github.com/solana-foundation/program-examples/pull/759) |
-| **[AURORALAOrg/aurora-backend](https://github.com/AURORALAOrg/aurora-backend)** | `Open-Source` | feat(chat): integrate OpenAI real-time conversation endpoint POST /api/v1/chat/ai (#47) | [PR #92](https://github.com/AURORALAOrg/aurora-backend/pull/92) |
-| **[Crypto-Jaguars/Revo-Backend](https://github.com/Crypto-Jaguars/Revo-Backend)** | `Open-Source` | feat(inventory): implement product inventory and seasonal availability management (#76) | [PR #107](https://github.com/Crypto-Jaguars/Revo-Backend/pull/107) |
+| **[AURORALAOrg/aurora-backend](https://github.com/AURORALAOrg/aurora-backend)** | `TypeScript` `Express` `OpenAI API` | Real-time AI conversational endpoint (`POST /api/v1/chat/ai`) & token streaming | [PR #92](https://github.com/AURORALAOrg/aurora-backend/pull/92) |
+| **[Crypto-Jaguars/Revo-Backend](https://github.com/Crypto-Jaguars/Revo-Backend)** | `TypeScript` `NestJS` `PostgreSQL` | Product inventory state machine & seasonal availability management API | [PR #107](https://github.com/Crypto-Jaguars/Revo-Backend/pull/107) |
 
 ---
 
