@@ -47,7 +47,7 @@ While commercial source code remains in private repositories under client NDA or
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(22 Public Pull Requests across 14 Repositories • 4 Peer-Reviewed ✅)*
+### 🚀 Selected Open-Source Contributions *(22 Public Pull Requests across 14 Repositories • 8 Peer-Reviewed ✅)*
 
 | Repository | Stack | Engineering Scope & Contribution | Reference & Review Status |
 | :--- | :--- | :--- | :--- |
@@ -56,8 +56,8 @@ While commercial source code remains in private repositories under client NDA or
 | **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)** | `Rust` `GPUI` `TypeScript` | Desktop recording engine architecture, upload bandwidth scaling & startup health diagnostics | [PR #3188 ⭐ Reviewed](https://github.com/CapSoftware/Cap/pull/3188) / [Proposal #3218 (CAP-920)](https://github.com/CapSoftware/Cap/issues/3218) |
 | **[TheSolaAI/sola-application](https://github.com/TheSolaAI/sola-application)** | `Next.js` `TypeScript` `Tailwind` | Custom handsfree Solana `BlinkMessageItem` component & `getBlinks` AI tool integration | [PR #496 ✅ Reviewed](https://github.com/TheSolaAI/sola-application/pull/496) |
 | **[BAWES-Universe/studenthub](https://github.com/BAWES-Universe/studenthub)** | `PHP/Yii2` `TypeScript` `Ionic` | S3/MediaConvert credential hardening & Civil ID upload/validation security flow | [PR #128 ✅ Reviewed](https://github.com/BAWES-Universe/studenthub/pull/128) |
-| **[AURORALAOrg/aurora-backend](https://github.com/AURORALAOrg/aurora-backend)** | `TypeScript` `Express` `OpenAI API` | Real-time AI conversational endpoint (`POST /api/v1/chat/ai`) & token streaming | [PR #92](https://github.com/AURORALAOrg/aurora-backend/pull/92) |
-| **[Crypto-Jaguars/Revo-Backend](https://github.com/Crypto-Jaguars/Revo-Backend)** | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` | Product inventory state machine, row-locked stock reservation & seasonal availability API | [PR #107](https://github.com/Crypto-Jaguars/Revo-Backend/pull/107) |
+| **[AURORALAOrg/aurora-backend](https://github.com/AURORALAOrg/aurora-backend)** | `TypeScript` `Express` `OpenAI API` | Real-time AI conversational endpoint (`POST /api/v1/chat/ai`) & token streaming | [PR #92 ✅ Reviewed](https://github.com/AURORALAOrg/aurora-backend/pull/92) |
+| **[Crypto-Jaguars/Revo-Backend](https://github.com/Crypto-Jaguars/Revo-Backend)** | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` | Product inventory state machine, row-locked stock reservation & seasonal availability API | [PR #107 ✅ Reviewed](https://github.com/Crypto-Jaguars/Revo-Backend/pull/107) |
 | **[arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains)** | `TypeScript` `Node.js` `Wasm` | AWS Comprehend PII redaction, Qdrant Vector DB REST client & Google PaLM 2 SDK integration | [PR #711 ✅ Reviewed](https://github.com/arakoodev/EdgeChains/pull/711) / [PR #713](https://github.com/arakoodev/EdgeChains/pull/713) / [PR #714](https://github.com/arakoodev/EdgeChains/pull/714) |
 | **[javelin-anticheat/py-workedtask](https://github.com/javelin-anticheat/py-workedtask)** | `Python` `C++` | Executable/script SHA-256 hash verification & anti-cheat debugger/process protection | [PR #72](https://github.com/javelin-anticheat/py-workedtask/pull/72) / [PR #73](https://github.com/javelin-anticheat/py-workedtask/pull/73) |
 | **[blake-guthrie/GLASS](https://github.com/blake-guthrie/GLASS)** | `Python` `TypeScript` | Market cap calculation & real-time display accuracy for USDC-quoted trading pairs | [PR #28](https://github.com/blake-guthrie/GLASS/pull/28) |
