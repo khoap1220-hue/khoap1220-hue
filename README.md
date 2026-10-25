@@ -2,13 +2,13 @@
 
 **Full-Stack & AI Systems Architect | Enterprise Automation & Open-Source Contributor**
 
-I design and build production-grade **Full-Stack SaaS applications**, **high-concurrency AI & multi-agent workflows**, **idempotent FinTech payment engines**, and **developer tooling** across **TypeScript/Next.js**, **Python**, **Rust**, and **Go**.
+I architect and build production-grade **Enterprise ERP & PropTech platforms**, **Multi-Agent Software Operating Systems**, **Idempotent FinTech & E-Commerce Engines**, **Multimodal AI Pipelines (Voice/Video/3D/Game)**, and **High-Concurrency Browser/Desktop Automation Tools** across **TypeScript/Next.js**, **Python**, **Rust**, and **Go**.
 
-> 💡 *Most of my heavy commercial and R&D work lives in **private production repositories** (enterprise automation, payment gateways, and AI orchestration engines), alongside active contributions to the open-source ecosystem.*
+> 💡 **Portfolio Overview:** Beyond my public open-source contributions, I have architected and deployed **35+ private production systems and internal R&D repositories** spanning enterprise management, AI agent ecosystems, media automation, and developer infrastructure.
 
 ---
 
-### 🛠️ Core Tech Stack & Architecture
+### 🛠️ Core Tech Stack & Infrastructure
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,26 +21,33 @@ I design and build production-grade **Full-Stack SaaS applications**, **high-con
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Edge-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright_/_CDP-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender_3D_API-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-### 🏛️ Featured Proprietary & Production Systems *(Private Repositories)*
+### 🏛️ Proprietary & Production Systems Portfolio *(35+ Private Repositories)*
 
-While the source code for commercial and client systems remains private under NDA/proprietary licenses, below is an architectural overview of key production systems I have architected and deployed:
+While commercial source code remains in private repositories under client NDA or proprietary licenses, below is the architectural breakdown of the **10 core engineering domains** I have built and operated in production:
 
-| System / Project | Visibility | Tech Stack | Architecture & Production Highlights |
-| :--- | :---: | :--- | :--- |
-| **Autonomous Code Intelligence & Multi-Agent Dev OS** | 🔒 `Private / Prod` | `Python` `AST` `MCP` `LLM Routing` | Multi-agent software verification engine featuring automated repository architecture analysis, AST static verification, 3-agent consensus security auditing, and 50-key resilient LLM gateway routing. |
-| **Zero-Touch FinTech Payment & Digital Fulfillment Engine** | 🔒 `Private / Prod` | `TypeScript` `Node.js` `SQLite` `Webhooks` | Real-time banking webhook processor with strict cryptographic idempotency, atomic inventory decrementing, automated SLA warranty replacement, and instant Telegram Bot API delivery. |
-| **Headless Browser QA & Visual Verification Framework** | 🔒 `Private / Prod` | `TypeScript` `Playwright` `CDP` `Vision AI` | High-concurrency browser automation engine over Chrome DevTools Protocol (CDP) with Set-of-Marks visual assertion, automated DLP secret redaction, and deterministic trajectory replay. |
-| **AI Multimodal Media & Game Asset Production Pipeline** | 🔒 `Private / Prod` | `Python` `Blender API` `FFmpeg` `Audio DSP` | End-to-end automated pipeline for generative video/audio synthesis (EBU R128 `-14 LUFS` broadcast mastering), automated timeline assembly, and 2D/3D game asset compilation. |
-| **Cloudflare Edge & Full-Stack SaaS Infrastructure** | 🔒 `Private / Prod` | `Next.js` `Cloudflare Workers` `D1` `R2` `KV` | Serverless edge-deployed web applications with automated D1 schema migrations, zero-downtime deployment pipelines, and role-based access control (RBAC). |
+| # | Domain / System Suite | Key Private Modules | Tech Stack | Production Architecture & Engineering Highlights |
+| :-: | :--- | :--- | :--- | :--- |
+| **1** | **Autonomous Multi-Agent OS & Code Intelligence** | `MATRIX-Plan`, `ag-autodev-mcp`, `code-mcp`, `git-auto-sync` | `Python` `AST` `MCP` `LLM Gateway` | Level-5 autonomous software engineering OS with AST self-healing, 3-agent consensus security auditing, Hebbian synaptic knowledge graph, and 50-key resilient LLM routing. |
+| **2** | **Enterprise ERP, PropTech & Project Management** | `erp-local-system`, `qlda-dashboard`, `Gate-BDS`, `RoomRental-A2A`, `qlnt` | `TypeScript` `React` `Node.js` `SQL` | Local-first Enterprise ERP, Construction & Project Management Dashboard (`QLDA`), Real Estate portal (`Gate-BDS`), and automated A2A Property/Room Rental management suite. |
+| **3** | **FinTech Payment Gateway & E-Commerce Fulfillment** | `telegram-shop-bot`, `handmadehub`, `Event-Passport`, `agent-gig-crm` | `TypeScript` `SQLite` `VietQR/SePay` `REST` | Zero-touch banking webhook processor (`<50ms` strict idempotency), atomic inventory ledger, automated 30-day warranty replacement, Event Passport ticketing, and full-stack E-Commerce (`HandmadeHub`). |
+| **4** | **Neural Voice Cloning, Vietnamese TTS & ASR Suite** | `F5-TTS-Vietnamese`, `omni-voice-mcp`, `Speech-to-Text-UTF8`, `Voice-Clone` | `Python` `PyTorch` `FFmpeg` `Audio DSP` | Zero-shot Vietnamese voice synthesis (`F5-TTS`), automated YouTube voice dataset curation, multi-speaker SRT video dubbing with Studio Parametric EQ, and Windows UTF-8 ASR engine. |
+| **5** | **3D/VRM Generation, Blender MCP & Video Studio** | `MCP-Blender-Agent`, `imageto3d`, `Creative-VRM`, `agent-clip-mcp`, `google-flow` | `Python` `Blender API` `WebGL/Three.js` `Veo` | Programmatic 3D scene creation via Blender MCP, single-image to 3D mesh/VRM avatar conversion, automated highlight extraction, and CapCut/FFmpeg master timeline assembly (`-14 LUFS`). |
+| **6** | **Agentic Browser, Desktop GUI & RPA Infrastructure** | `trinh-duyet-cho-agent`, `MCP-gui-automation`, `plugin-automation`, `vn-auto` | `TypeScript` `CDP` `Playwright` `Win32/DXGI` | Custom anti-detect browser engine for AI agents over Chrome DevTools Protocol (CDP), `<30ms` DXGI screen-capture Windows GUI automation, Set-of-Marks visual assertions, and trajectory replay. |
+| **7** | **Game Studio Engine & Cloud Gaming Orchestrator** | `Game-Gatcha`, `Game-Tap-Tap`, `otakuverse`, `decloud-gaming-v11` | `TypeScript` `Canvas/WebGL` `Python` `Cloud` | Interactive 2D/3D web games (Gacha & Tap-Tap mechanics), automated 7-pillar game asset/sprite compilation (`game-asset-mcp`), and automated Cloud Gaming v11 node installer. |
+| **8** | **Enterprise API Gateway & Multi-Channel CRM** | `API-Handler`, `trinh-quan-ly-zalo`, `Tuyen-Dung-Data-Zalo`, `auto-social` | `TypeScript` `Python` `OAuth2` `Webhooks` | High-throughput batch API pool & RPC analyzer, Zalo OA/Personal CRM & HR recruitment data pipeline, and multi-platform social publishing automation. |
+| **9** | **AIoT Telemetry, GIS Mapping & Semantic Search** | `ai-iot`, `LocalMapTool`, `doc-photo-search-tool`, `check-domain` | `Python` `IoT/MQTT` `Vector Search` `GIS` | Real-time AIoT sensor telemetry & anomaly detection, interactive local GIS mapping tool, multimodal OCR/Photo vector search engine, and automated domain/bandwidth diagnostics. |
+| **10** | **Multimodal AI Creative & UI/UX Design Studios** | [`Master-Lab`](https://github.com/khoap1220-hue/Master-Lab), [`Phan-ng-Khoa`](https://github.com/khoap1220-hue/Phan-ng-Khoa), `CLI-Branding-KIT` | `TypeScript` `React` `Vite` `Gemini 3.1` | **Omni Master Intelligence v11.0** (Conversational visual editing & brand studio) and **AI Design Visionary** (Transforming rough wireframes into high-fidelity UI/UX concepts). |
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(Public Repositories)*
+### 🚀 Selected Open-Source Contributions *(Public Pull Requests)*
 
 | Repository | Stack | Engineering Scope & Contribution | Reference |
 | :--- | :--- | :--- | :--- |
@@ -66,6 +73,6 @@ While the source code for commercial and client systems remains private under ND
 ### 📫 Connect & Collaborate
 
 - **GitHub:** [@khoap1220-hue](https://github.com/khoap1220-hue)
-- **Organization / Lab:** [@Master-Lab](https://github.com/khoap1220-hue/Master-Lab)
+- **Flagship Public Labs:** [Master-Lab (Omni AI Creative Studio v11.0)](https://github.com/khoap1220-hue/Master-Lab) • [Phan-ng-Khoa (AI Design Visionary)](https://github.com/khoap1220-hue/Phan-ng-Khoa)
 - **Location:** Vietnam (UTC+7)
-- **Available for:** Open-Source Collaboration, Custom Full-Stack & AI Automation Architecture, and Technical Consulting
+- **Available for:** Open-Source Collaboration, Custom Enterprise Full-Stack & AI Automation Architecture, and Technical Consulting
