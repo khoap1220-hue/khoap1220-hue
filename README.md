@@ -47,18 +47,20 @@ While commercial source code remains in private repositories under client NDA or
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(Public Pull Requests)*
+### 🚀 Selected Open-Source Contributions *(23 Public Pull Requests across 10 Repositories)*
 
 | Repository | Stack | Engineering Scope & Contribution | Reference |
 | :--- | :--- | :--- | :--- |
 | **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)** | `Rust` `GPUI` `TypeScript` | Desktop recording engine architecture, upload bandwidth scaling & startup health diagnostics | [PR #3188](https://github.com/CapSoftware/Cap/pull/3188) / [Issue #3218](https://github.com/CapSoftware/Cap/issues/3218) |
 | **[TheSolaAI/sola-application](https://github.com/TheSolaAI/sola-application)** | `Next.js` `TypeScript` `Tailwind` | Custom handsfree Solana `BlinkMessageItem` component & `getBlinks` AI tool integration | [PR #496](https://github.com/TheSolaAI/sola-application/pull/496) |
 | **[BAWES-Universe/studenthub](https://github.com/BAWES-Universe/studenthub)** | `PHP/Yii2` `TypeScript` `Ionic` | S3/MediaConvert credential hardening & Civil ID upload/validation security flow | [PR #128](https://github.com/BAWES-Universe/studenthub/pull/128) |
-| **[arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains)** | `TypeScript` `Node.js` `Wasm` | AWS Comprehend PII redaction, Qdrant Vector DB REST client & Google PaLM 2 SDK integration | [PR #711](https://github.com/arakoodev/EdgeChains/pull/711) / [#713](https://github.com/arakoodev/EdgeChains/pull/713) / [#714](https://github.com/arakoodev/EdgeChains/pull/714) |
+| **[arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains)** | `TypeScript` `Node.js` `Wasm` | AWS Comprehend PII redaction, Qdrant Vector DB REST client & Google PaLM 2 SDK integration | [PR #711](https://github.com/arakoodev/EdgeChains/pull/711) / [PR #713](https://github.com/arakoodev/EdgeChains/pull/713) / [PR #714](https://github.com/arakoodev/EdgeChains/pull/714) |
 | **[javelin-anticheat/py-workedtask](https://github.com/javelin-anticheat/py-workedtask)** | `Python` `C++` | Executable/script SHA-256 hash verification & anti-cheat debugger/process protection | [PR #72](https://github.com/javelin-anticheat/py-workedtask/pull/72) / [PR #73](https://github.com/javelin-anticheat/py-workedtask/pull/73) |
 | **[blake-guthrie/GLASS](https://github.com/blake-guthrie/GLASS)** | `Python` `TypeScript` | Market cap calculation & real-time display accuracy for USDC-quoted trading pairs | [PR #28](https://github.com/blake-guthrie/GLASS/pull/28) |
 | **[golang-cafe/job-board](https://github.com/golang-cafe/job-board)** | `Go` `PostgreSQL` | Developer profile PDF CV upload/download pipeline & flexible profile validation | [PR #148](https://github.com/golang-cafe/job-board/pull/148) |
-| **[PG-AGI/toingg-jarvis](https://github.com/PG-AGI/toingg-jarvis)** | `Python` `Go` `Fyne GUI` | Cross-platform desktop GUI controller, Playwright multipart uploads & native installers (`.exe/.deb/.dmg`) | [PR #92](https://github.com/PG-AGI/toingg-jarvis/pull/92)–[#97](https://github.com/PG-AGI/toingg-jarvis/pull/97) |
+| **[PG-AGI/toingg-jarvis](https://github.com/PG-AGI/toingg-jarvis)** | `Python` `Go` `Fyne GUI` | Cross-platform desktop GUI controller, Playwright multipart uploads & native installers (`.exe/.deb/.dmg`) | [PR #92](https://github.com/PG-AGI/toingg-jarvis/pull/92) / [PR #93](https://github.com/PG-AGI/toingg-jarvis/pull/93) / [PR #94](https://github.com/PG-AGI/toingg-jarvis/pull/94) / [PR #95](https://github.com/PG-AGI/toingg-jarvis/pull/95) / [PR #96](https://github.com/PG-AGI/toingg-jarvis/pull/96) / [PR #97](https://github.com/PG-AGI/toingg-jarvis/pull/97) |
+| **[lablab-ai/community-content](https://github.com/lablab-ai/community-content)** | `Markdown` `AI Tutorials` `Vectara` | Technical AI hackathon architecture guides & Vectara RAG implementation tutorials | [PR #1097](https://github.com/lablab-ai/community-content/pull/1097) |
+| **[speakers-in-tech/conference-data](https://github.com/speakers-in-tech/conference-data)** | `JSON` `Data Curation` | Developer conference registry & structured event metadata automation | [PR #411](https://github.com/speakers-in-tech/conference-data/pull/411) |
 
 ---
 
