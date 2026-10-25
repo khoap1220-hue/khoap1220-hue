@@ -47,7 +47,7 @@ While commercial source code remains in private repositories under client NDA or
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(25 Public Pull Requests across 15 Repositories • 10 Peer-Reviewed ✅)*
+### 🚀 Selected Open-Source Contributions *(25 Public Pull Requests across 15 Repositories • 11 Peer-Reviewed ✅)*
 
 | Repository | Stack | Engineering Scope & Contribution | Reference & Review Status |
 | :--- | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ While commercial source code remains in private repositories under client NDA or
 | **[BAWES-Universe/studenthub](https://github.com/BAWES-Universe/studenthub)** | `PHP/Yii2` `TypeScript` `Ionic` | S3/MediaConvert credential hardening & Civil ID upload/validation security flow | [PR #128 ✅ Reviewed](https://github.com/BAWES-Universe/studenthub/pull/128) |
 | **[AURORALAOrg/aurora-backend](https://github.com/AURORALAOrg/aurora-backend)** | `TypeScript` `Express` `Prisma` `OpenAI API` | Real-time AI conversational endpoint (`POST /api/v1/chat/ai`) & comprehensive Gamification Badges/Achievements engine | [PR #92 ✅ Reviewed](https://github.com/AURORALAOrg/aurora-backend/pull/92) / [PR #93 ✅ Reviewed](https://github.com/AURORALAOrg/aurora-backend/pull/93) |
 | **[Crypto-Jaguars/Revo-Backend](https://github.com/Crypto-Jaguars/Revo-Backend)** | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` | Product inventory state machine, seasonal availability engine & Order/Shopping Cart ORM architecture | [PR #107 ✅ Reviewed](https://github.com/Crypto-Jaguars/Revo-Backend/pull/107) / [PR #108 ✅ Reviewed](https://github.com/Crypto-Jaguars/Revo-Backend/pull/108) |
-| **[PayStell/paystell-website](https://github.com/PayStell/paystell-website)** | `Next.js` `TypeScript` `Stellar SDK` `Tailwind` | 4-step Stellar wallet withdrawal flow with Stepper UX, Ed25519 validation, reserve guards & 2FA confirmation | [PR #141](https://github.com/PayStell/paystell-website/pull/141) |
+| **[PayStell/paystell-website](https://github.com/PayStell/paystell-website)** | `Next.js` `TypeScript` `Stellar SDK` `Tailwind` | 4-step Stellar wallet withdrawal flow with Stepper UX, Ed25519 validation, reserve guards & 2FA confirmation | [PR #141 ✅ Reviewed](https://github.com/PayStell/paystell-website/pull/141) |
 | **[arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains)** | `TypeScript` `Node.js` `Wasm` | AWS Comprehend PII redaction, Qdrant Vector DB REST client & Google PaLM 2 SDK integration | [PR #711 ✅ Reviewed](https://github.com/arakoodev/EdgeChains/pull/711) / [PR #713](https://github.com/arakoodev/EdgeChains/pull/713) / [PR #714](https://github.com/arakoodev/EdgeChains/pull/714) |
 | **[javelin-anticheat/py-workedtask](https://github.com/javelin-anticheat/py-workedtask)** | `Python` `C++` | Executable/script SHA-256 hash verification & anti-cheat debugger/process protection | [PR #72](https://github.com/javelin-anticheat/py-workedtask/pull/72) / [PR #73](https://github.com/javelin-anticheat/py-workedtask/pull/73) |
 | **[blake-guthrie/GLASS](https://github.com/blake-guthrie/GLASS)** | `Python` `TypeScript` | Market cap calculation & real-time display accuracy for USDC-quoted trading pairs | [PR #28](https://github.com/blake-guthrie/GLASS/pull/28) |
