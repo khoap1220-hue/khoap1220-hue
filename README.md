@@ -47,7 +47,7 @@ While commercial source code remains in private repositories under client NDA or
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(24 Public Pull Requests across 14 Repositories • 1 Credited in Main 🟣 • 10 CI & Audit Verified 🛡️)*
+### 🚀 Selected Open-Source Contributions *(25 Public Pull Requests across 15 Repositories • 1 Credited in Main 🟣 • 11 CI & Audit Verified 🛡️)*
 
 > ⚡ **Benchmark of Execution:** *The contributions below also serve as live, public stress-tests of my internal **Multi-Agent Code Intelligence & RCA Pipeline (Domain #1)** — demonstrating rapid cross-language codebase ingestion (`Rust`, `Go`, `Python`, `TypeScript`, `C++`), automated test generation, and strict adherence to upstream engineering standards.*
 
@@ -55,6 +55,7 @@ While commercial source code remains in private repositories under client NDA or
 | :--- | :--- | :--- | :--- |
 | **[BasedHardware/omi](https://github.com/BasedHardware/omi)** | `Python` `FastAPI` `Stripe Billing` | Currency-aware Stripe subscription management, JPY zero-decimal formatting & pre-mutation schedule guards (Reviewed & Credited in `main` merge #23591) | [🟣 Credited in Main (#23591)](https://github.com/BasedHardware/omi/pull/23591) / [PR #23597 (Maintainer Acknowledged)](https://github.com/BasedHardware/omi/pull/23597) |
 | **[solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)** | `Rust` `Anchor` `Solana` `TypeScript` | PDA rent-payer authority validation & cross-framework SPL token example parity (`5/5 CI & Greptile Green`) | [PR #760 🛡️ 5/5 CI & Audit Passed](https://github.com/solana-foundation/program-examples/pull/760) |
+| **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)** | `Rust` `GPUI` `TypeScript` | Desktop recording engine architecture, upload bandwidth scaling & startup health diagnostics | [📐 Linear CAP-920 (#3218)](https://github.com/CapSoftware/Cap/issues/3218) / [PR #3188 (Maintainer Endorsed)](https://github.com/CapSoftware/Cap/pull/3188) |
 | **[TheSolaAI/sola-application](https://github.com/TheSolaAI/sola-application)** | `Next.js` `TypeScript` `Tailwind` | Custom handsfree Solana `BlinkMessageItem` component & `getBlinks` AI tool integration | [PR #496 🟢 Sourcery LGTM / Awaiting Merge](https://github.com/TheSolaAI/sola-application/pull/496) |
 | **[BAWES-Universe/studenthub](https://github.com/BAWES-Universe/studenthub)** | `PHP/Yii2` `TypeScript` `Ionic` | S3/MediaConvert credential hardening & Civil ID upload/validation security flow | [PR #128 🛡️ Review Addressed / Awaiting Merge](https://github.com/BAWES-Universe/studenthub/pull/128) |
 | **[AURORALAOrg/aurora-backend](https://github.com/AURORALAOrg/aurora-backend)** | `TypeScript` `Express` `Prisma` `OpenAI API` | Real-time AI conversational endpoint (`POST /api/v1/chat/ai`) & comprehensive Gamification Badges/Achievements engine | [PR #92 🛡️ Audit & Tests Passed](https://github.com/AURORALAOrg/aurora-backend/pull/92) / [PR #93 🛡️ Audit & Tests Passed](https://github.com/AURORALAOrg/aurora-backend/pull/93) |
