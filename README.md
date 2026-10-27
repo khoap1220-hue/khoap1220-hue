@@ -47,7 +47,7 @@ While commercial source code remains in private repositories under client NDA or
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(27 Public Pull Requests across 15 Repositories • 1 Credited in Main 🟣 • 10 CI & Audit Verified 🛡️)*
+### 🚀 Selected Open-Source Contributions *(24 Public Pull Requests across 14 Repositories • 1 Credited in Main 🟣 • 10 CI & Audit Verified 🛡️)*
 
 > ⚡ **Benchmark of Execution:** *The contributions below also serve as live, public stress-tests of my internal **Multi-Agent Code Intelligence & RCA Pipeline (Domain #1)** — demonstrating rapid cross-language codebase ingestion (`Rust`, `Go`, `Python`, `TypeScript`, `C++`), automated test generation, and strict adherence to upstream engineering standards.*
 
@@ -67,7 +67,6 @@ While commercial source code remains in private repositories under client NDA or
 | **[PG-AGI/toingg-jarvis](https://github.com/PG-AGI/toingg-jarvis)** | `Python` `Go` `Fyne GUI` | Cross-platform desktop GUI controller, Playwright multipart uploads & native installers (`.exe/.deb/.dmg`) | [PR #92 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/92) / [PR #93 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/93) / [PR #94 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/94) / [PR #95 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/95) / [PR #96 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/96) / [PR #97 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/97) |
 | **[lablab-ai/community-content](https://github.com/lablab-ai/community-content)** | `Markdown` `AI Tutorials` `Vectara` | Technical AI hackathon architecture guides & Vectara RAG implementation tutorials | [PR #1097 🟢 Open](https://github.com/lablab-ai/community-content/pull/1097) |
 | **[speakers-in-tech/conference-data](https://github.com/speakers-in-tech/conference-data)** | `JSON` `Data Curation` | Developer conference registry & structured event metadata automation | [PR #411 🟢 Open](https://github.com/speakers-in-tech/conference-data/pull/411) |
-| **[SoroStream/sorostream-sdk](https://github.com/SoroStream/sorostream-sdk)** | `Open-Source` | fix: add bounded jitter to waitForLedger polling (#722) | [PR #864 🟢 Open](https://github.com/SoroStream/sorostream-sdk/pull/864) / [PR #865 🟢 Open](https://github.com/SoroStream/sorostream-sdk/pull/865) / [PR #866 🟢 Open](https://github.com/SoroStream/sorostream-sdk/pull/866) |
 
 ---
 
