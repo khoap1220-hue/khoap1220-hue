@@ -47,7 +47,7 @@ While commercial source code remains in private repositories under client NDA or
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(29 Public Pull Requests across 17 Repositories • 1 Credited in Main 🟣 • 5 Merged 🟣 • 10 CI & Audit Verified 🛡️)*
+### 🚀 Selected Open-Source Contributions *(29 Public Pull Requests across 17 Repositories • 1 Credited in Main 🟣 • 5 Merged 🟣 • 9 CI & Audit Verified 🛡️)*
 
 > ⚡ **Benchmark of Execution:** *The contributions below also serve as live, public stress-tests of my internal **Multi-Agent Code Intelligence & RCA Pipeline (Domain #1)** — demonstrating rapid cross-language codebase ingestion (`Rust`, `Go`, `Python`, `TypeScript`, `C++`), automated test generation, and strict adherence to upstream engineering standards.*
 
