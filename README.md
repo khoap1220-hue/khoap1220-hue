@@ -47,13 +47,12 @@ While commercial source code remains in private repositories under client NDA or
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(24 Public Pull Requests across 14 Repositories • 1 Credited in Main 🟣 • 10 CI & Audit Verified 🛡️)*
+### 🚀 Selected Open-Source Contributions *(23 Public Pull Requests across 13 Repositories • 1 Credited in Main 🟣 • 9 CI & Audit Verified 🛡️)*
 
 > ⚡ **Benchmark of Execution:** *The contributions below also serve as live, public stress-tests of my internal **Multi-Agent Code Intelligence & RCA Pipeline (Domain #1)** — demonstrating rapid cross-language codebase ingestion (`Rust`, `Go`, `Python`, `TypeScript`, `C++`), automated test generation, and strict adherence to upstream engineering standards.*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
-| **[BasedHardware/omi](https://github.com/BasedHardware/omi)** | `Python` `FastAPI` `Stripe Billing` | Currency-aware Stripe subscription management, JPY zero-decimal formatting & pre-mutation schedule guards (Reviewed & Credited in `main` merge #23591) | [🟣 Credited in Main (#23591)](https://github.com/BasedHardware/omi/pull/23591) / [PR #23597 (Maintainer Acknowledged)](https://github.com/BasedHardware/omi/pull/23597) |
 | **[solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)** | `Rust` `Anchor` `Solana` `TypeScript` | PDA rent-payer authority validation & cross-framework SPL token example parity (`5/5 CI & Greptile Green`) | [PR #760 🛡️ 5/5 CI & Audit Passed](https://github.com/solana-foundation/program-examples/pull/760) |
 | **[TheSolaAI/sola-application](https://github.com/TheSolaAI/sola-application)** | `Next.js` `TypeScript` `Tailwind` | Custom handsfree Solana `BlinkMessageItem` component & `getBlinks` AI tool integration | [PR #496 🟢 Sourcery LGTM / Awaiting Merge](https://github.com/TheSolaAI/sola-application/pull/496) |
 | **[BAWES-Universe/studenthub](https://github.com/BAWES-Universe/studenthub)** | `PHP/Yii2` `TypeScript` `Ionic` | S3/MediaConvert credential hardening & Civil ID upload/validation security flow | [PR #128 🛡️ Review Addressed / Awaiting Merge](https://github.com/BAWES-Universe/studenthub/pull/128) |
