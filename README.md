@@ -47,7 +47,7 @@ While commercial source code remains in private repositories under client NDA or
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(32 Public Pull Requests across 18 Repositories • 1 Credited in Main 🟣 • 6 Merged 🟣 • 11 CI & Audit Verified 🛡️)*
+### 🚀 Selected Open-Source Contributions *(32 Public Pull Requests across 18 Repositories • 1 Credited in Main 🟣 • 6 Merged 🟣 • 13 CI & Audit Verified 🛡️)*
 
 > ⚡ **Benchmark of Execution:** *The contributions below also serve as live, public stress-tests of my internal **Multi-Agent Code Intelligence & RCA Pipeline (Domain #1)** — demonstrating rapid cross-language codebase ingestion (`Rust`, `Go`, `Python`, `TypeScript`, `C++`), automated test generation, and strict adherence to upstream engineering standards.*
 
@@ -70,7 +70,7 @@ While commercial source code remains in private repositories under client NDA or
 | **[tldr-pages/tldr](https://github.com/tldr-pages/tldr)** | `Open-Source` | stellar: add page | [PR #24925 🟢 Open](https://github.com/tldr-pages/tldr/pull/24925) |
 | **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)** | `Open-Source` | Add Khoa Phan to Contributors list | [PR #127590 🟣 Merged](https://github.com/firstcontributions/first-contributions/pull/127590) |
 | **[PhanKhoa95/AntiQuotar](https://github.com/PhanKhoa95/AntiQuotar)** | `Open-Source` | docs(telemetry): add quota telemetry guide part 3 | [PR #1 🟣 Merged](https://github.com/PhanKhoa95/AntiQuotar/pull/1) / [PR #2 🟣 Merged](https://github.com/PhanKhoa95/AntiQuotar/pull/2) / [PR #3 🟣 Merged](https://github.com/PhanKhoa95/AntiQuotar/pull/3) |
-| **[airlock-sec/airlock](https://github.com/airlock-sec/airlock)** | `Open-Source` | feat(collector): Windows path handling, reserved device names, and case collisions (task 7.8) | [PR #46 🟣 Merged](https://github.com/airlock-sec/airlock/pull/46) / [PR #48 🟢 Open](https://github.com/airlock-sec/airlock/pull/48) / [PR #49 🟢 Open](https://github.com/airlock-sec/airlock/pull/49) |
+| **[airlock-sec/airlock](https://github.com/airlock-sec/airlock)** | `Open-Source` | feat(collector): Windows path handling, reserved device names, and case collisions (task 7.8) | [PR #46 🟣 Merged](https://github.com/airlock-sec/airlock/pull/46) / [PR #48 🛡️ Audit & Review Passed](https://github.com/airlock-sec/airlock/pull/48) / [PR #49 🛡️ Audit & Review Passed](https://github.com/airlock-sec/airlock/pull/49) |
 
 ---
 
