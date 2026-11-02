@@ -1,84 +1,89 @@
-# Hi there, I'm Khoa Phan (Phan Đăng Khoa) 👋
+# Khoa Phan (Phan Đăng Khoa) 👋
 
-**Full-Stack & AI Systems Architect | Enterprise Automation & Open-Source Contributor**
+**Systems, Web3 & Full-Stack Software Engineer (`Rust` • `Go` • `TypeScript` • `Python`)**
 
-I architect and build production-grade **Enterprise ERP & PropTech platforms**, **Multi-Agent Software Operating Systems**, **Idempotent FinTech & E-Commerce Engines**, **Multimodal AI Pipelines (Voice/Video/3D/Game)**, and **High-Concurrency Browser/Desktop Automation Tools** across **TypeScript/Next.js**, **Python**, **Rust**, and **Go**.
+I build high-reliability **Rust & WebAssembly cryptographic toolkits**, **fault-tolerant Go backends & indexers**, **idempotent TypeScript/Next.js Web3 SDKs**, and **defensive Python/FastAPI financial & streaming systems**. All commits are **100% GPG-signed (`Verified`)** and backed by deterministic automated test suites.
 
-> 💡 **Portfolio Overview:** Beyond my public open-source contributions, I have architected and deployed **35+ private production systems and internal R&D repositories** spanning enterprise management, AI agent ecosystems, media automation, and developer infrastructure.
-
----
-
-### 🛠️ Core Tech Stack & Infrastructure
-
+![Rust](https://img.shields.io/badge/Rust_&_Wasm-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go_1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Edge-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright_/_CDP-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender_3D_API-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python_/_FastAPI-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stellar Soroban](https://img.shields.io/badge/Stellar_/_Soroban_XDR-7D00FF?style=flat-square&logo=stellar&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana_/_Anchor-14F195?style=flat-square&logo=solana&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_/_React_19-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_/_SQLite-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GPG Verified](https://img.shields.io/badge/Commits-100%25_GPG_Verified-2ea44f?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 🏛️ Proprietary & Production Systems Portfolio *(35+ Private Repositories)*
+### 📌 Pinned Career Proof — Verified Upstream Highlights *(Click-to-Verify in 5 Seconds)*
 
-While commercial source code remains in private repositories under client NDA or proprietary licenses, below is the architectural breakdown of the **10 core engineering domains** I have built and operated in production:
-
-| # | Domain / System Suite | Key Private Modules | Tech Stack | Production Architecture & Engineering Highlights |
-| :-: | :--- | :--- | :--- | :--- |
-| **1** | **Autonomous Multi-Agent OS & Code Intelligence** | `MATRIX-Plan`, `ag-autodev-mcp`, `code-mcp`, `git-auto-sync` | `Python` `AST` `MCP` `LLM Gateway` | Level-5 autonomous software engineering OS with AST self-healing, 3-agent consensus security auditing, Hebbian synaptic knowledge graph, and 50-key resilient LLM routing. |
-| **2** | **Enterprise ERP, PropTech & Project Management** | `erp-local-system`, `qlda-dashboard`, `Gate-BDS`, `RoomRental-A2A`, `qlnt` | `TypeScript` `React` `Node.js` `SQL` | Local-first Enterprise ERP, Construction & Project Management Dashboard (`QLDA`), Real Estate portal (`Gate-BDS`), and automated A2A Property/Room Rental management suite. |
-| **3** | **FinTech Payment Gateway & E-Commerce Fulfillment** | `telegram-shop-bot`, `handmadehub`, `Event-Passport`, `agent-gig-crm` | `TypeScript` `SQLite` `VietQR/SePay` `REST` | Zero-touch banking webhook processor (`<50ms` strict idempotency), atomic inventory ledger, automated 30-day warranty replacement, Event Passport ticketing, and full-stack E-Commerce (`HandmadeHub`). |
-| **4** | **Neural Voice Cloning, Vietnamese TTS & ASR Suite** | `F5-TTS-Vietnamese`, `omni-voice-mcp`, `Speech-to-Text-UTF8`, `Voice-Clone` | `Python` `PyTorch` `FFmpeg` `Audio DSP` | Zero-shot Vietnamese voice synthesis (`F5-TTS`), automated YouTube voice dataset curation, multi-speaker SRT video dubbing with Studio Parametric EQ, and Windows UTF-8 ASR engine. |
-| **5** | **3D/VRM Generation, Blender MCP & Video Studio** | `MCP-Blender-Agent`, `imageto3d`, `Creative-VRM`, `agent-clip-mcp`, `google-flow` | `Python` `Blender API` `WebGL/Three.js` `Veo` | Programmatic 3D scene creation via Blender MCP, single-image to 3D mesh/VRM avatar conversion, automated highlight extraction, and CapCut/FFmpeg master timeline assembly (`-14 LUFS`). |
-| **6** | **Agentic Browser, Desktop GUI & RPA Infrastructure** | `trinh-duyet-cho-agent`, `MCP-gui-automation`, `plugin-automation`, `vn-auto` | `TypeScript` `CDP` `Playwright` `Win32/DXGI` | Custom anti-detect browser engine for AI agents over Chrome DevTools Protocol (CDP), `<30ms` DXGI screen-capture Windows GUI automation, Set-of-Marks visual assertions, and trajectory replay. |
-| **7** | **Game Studio Engine & Cloud Gaming Orchestrator** | `Game-Gatcha`, `Game-Tap-Tap`, `otakuverse`, `decloud-gaming-v11` | `TypeScript` `Canvas/WebGL` `Python` `Cloud` | Interactive 2D/3D web games (Gacha & Tap-Tap mechanics), automated 7-pillar game asset/sprite compilation (`game-asset-mcp`), and automated Cloud Gaming v11 node installer. |
-| **8** | **Enterprise API Gateway & Multi-Channel CRM** | `API-Handler`, `trinh-quan-ly-zalo`, `Tuyen-Dung-Data-Zalo`, `auto-social` | `TypeScript` `Python` `OAuth2` `Webhooks` | High-throughput batch API pool & RPC analyzer, Zalo OA/Personal CRM & HR recruitment data pipeline, and multi-platform social publishing automation. |
-| **9** | **AIoT Telemetry, GIS Mapping & Semantic Search** | `ai-iot`, `LocalMapTool`, `doc-photo-search-tool`, `check-domain` | `Python` `IoT/MQTT` `Vector Search` `GIS` | Real-time AIoT sensor telemetry & anomaly detection, interactive local GIS mapping tool, multimodal OCR/Photo vector search engine, and automated domain/bandwidth diagnostics. |
-| **10** | **Multimodal AI Creative & UI/UX Design Studios** | [`Master-Lab`](https://github.com/khoap1220-hue/Master-Lab), [`Phan-ng-Khoa`](https://github.com/khoap1220-hue/Phan-ng-Khoa), `CLI-Branding-KIT` | `TypeScript` `React` `Vite` `Gemini 3.1` | **Omni Master Intelligence v11.0** (Conversational visual editing & brand studio) and **AI Design Visionary** (Transforming rough wireframes into high-fidelity UI/UX concepts). |
+| # | Proof Category | Upstream Organization & Repo | Tech Stack | Delivered Engineering Solution | Verifiable Proof Link |
+| :-: | :--- | :--- | :--- | :--- | :--- |
+| **1** | **🟣 Merged Upstream Code** | **[Externalize-Labs/externalize](https://github.com/Externalize-Labs/externalize)** | `Rust` `WebAssembly` `Stellar XDR` | Exported cryptographic `proveAncestor` verifier to the WebAssembly package (`wasm-bindgen`), enforcing `certified_seq` bounds & full browser/Node test parity. | [🟣 **PR #39 Merged**](https://github.com/Externalize-Labs/externalize/pull/39) • [Commit `a927da3`](https://github.com/Externalize-Labs/externalize/commit/a927da3a82eb66089bfe3eba18f08a00eea8f65a) (`11/11 CI Green`) |
+| **2** | **🟣 Credited in `main`** | **[BasedHardware/omi](https://github.com/BasedHardware/omi)** *(8k+ ⭐)* | `Python` `FastAPI` `Stripe API` | Multi-currency Stripe subscription billing, ISO-4217 Zero-Decimal (`JPY`) formatting & pre-mutation `SubscriptionSchedule` guards. | [🟣 **Credited in Main (#23591)**](https://github.com/BasedHardware/omi/pull/23591) • [PR #23597](https://github.com/BasedHardware/omi/pull/23597) (`15/15 Tests`) |
+| **3** | **📐 Maintainer Endorsed** | **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)** *(12k+ ⭐)* | `Rust` `GPUI` `AWS S3 Multipart` | Architectural design for chunked S3 upload progress tracking & exponential backoff retry in the new `apps/desktop-gpui` Rust engine. | [📐 **Issue #3218 (Linear `CAP-920`)**](https://github.com/CapSoftware/Cap/issues/3218) • [PR #3188](https://github.com/CapSoftware/Cap/pull/3188) |
+| **4** | **🛡️ 5/5 Audit & CI Green** | **[solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)** | `Rust` `Anchor` `Solana SPL` | Enforced caller `authority` verification on PDA Rent-Payer accounts across Anchor & Native Rust examples to prevent unauthorized lamport drain. | [🛡️ **PR #760 (`5/5 Greptile & CI Green`)**](https://github.com/solana-foundation/program-examples/pull/760) |
+| **5** | **🔒 Transactional Cloud** | **[BAWES-Universe/studenthub](https://github.com/BAWES-Universe/studenthub)** | `PHP/Yii2` `TypeScript` `AWS S3` | Enforced atomic `DB-save-before-S3-delete` ordering on Civil ID updates & hardened AWS MediaConvert credential validation. | [🛡️ **PR #128 (`3/3 CI Gates: PHP, Migration, Gitleaks`)**](https://github.com/BAWES-Universe/studenthub/pull/128) |
+| **6** | **⚡ Web3 Wallet & Blinks** | **[PayStell/paystell-website](https://github.com/PayStell/paystell-website)** & **[TheSolaAI](https://github.com/TheSolaAI/sola-application)** | `Next.js` `TypeScript` `Stellar / Solana` | 4-step Stellar wallet withdrawal stepper with Ed25519/reserve/2FA guards & handsfree Solana Blink action execution component. | [🛡️ **PayStell #141**](https://github.com/PayStell/paystell-website/pull/141) • [🟢 **TheSolaAI #496 (`Sourcery LGTM`)**](https://github.com/TheSolaAI/sola-application/pull/496) |
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(22 Public Pull Requests across 12 Repositories • 1 Credited in Main 🟣 • 5 Merged 🟣 • 7 CI & Audit Verified 🛡️)*
+### 🎁 Featured Open-Source Community Toolkits *(Free & MIT Licensed — Built & Used Daily)*
 
-> ⚡ **Benchmark of Execution:** *The contributions below also serve as live, public stress-tests of my internal **Multi-Agent Code Intelligence & RCA Pipeline (Domain #1)** — demonstrating rapid cross-language codebase ingestion (`Rust`, `Go`, `Python`, `TypeScript`, `C++`), automated test generation, and strict adherence to upstream engineering standards.*
+We actively extract and publish our core engineering primitives as **free, zero-bloat MIT open-source libraries** for the global developer community:
+
+| # | Public Community Repository | Stack & CI Verification | What It Solves for the Community (and Our Daily Workflows) |
+| :-: | :--- | :--- | :--- |
+| **1** | **[`soroban-xdr-proof-kit`](https://github.com/khoap1220-hue/soroban-xdr-proof-kit)** | `Rust` `WebAssembly` `cargo test` | Offline **Stellar `LedgerHeader` SHA-256 hash-link ancestry verifier**, History Archive checkpoint calculator (`64 * n - 1`), and deterministic `ledger/xx/yy/zz` archive path resolver. |
+| **2** | **[`go-preflight-sql-guard`](https://github.com/khoap1220-hue/go-preflight-sql-guard)** | `Go 1.22+` `go test -race` `Stdlib` | **Read-only startup preflight self-checker**, graceful database degradation circuit breaker (`DEGRADED_READ_ONLY` fallback), and thread-safe query cost attribution ledger for Go indexers. |
+| **3** | **[`ts-idempotent-webhook-guard`](https://github.com/khoap1220-hue/ts-idempotent-webhook-guard)** | `TypeScript` `Node.js` `node --test` | **Concurrent `Promise.all` webhook idempotency lock** (guarantees exactly-once execution under burst retries), strict `https://` SSRF-safe URL validator, and recursive log secret redactor. |
+| **4** | **[`py-stream-and-billing-guard`](https://github.com/khoap1220-hue/py-stream-and-billing-guard)** | `Python 3.11+` `FastAPI` `unittest` | **Cross-chunk SSE stream framing normalizer** (reassembling fragmented TCP chunks before guardrail inspection), ISO-4217 Zero-Decimal (`JPY`/`KRW`) billing guard, and `commit_before_external_cleanup`. |
+| **5** | **[`solana-validator-ordering-post-alpenglow`](https://github.com/khoap1220-hue/solana-validator-ordering-post-alpenglow)** | `Python` `Rust` `Solana Mainnet RPC` | Quantitative telemetry & empirical statistical benchmark suite analyzing **Solana Mainnet validator transaction ordering** across Jito, Frankendancer, and Agave post-Alpenglow. |
+| **6** | **[`Master-Lab`](https://github.com/khoap1220-hue/Master-Lab)** & **[`Phan-ng-Khoa`](https://github.com/khoap1220-hue/Phan-ng-Khoa)** | `TypeScript` `React 19` `Vite` | Open-source **Multimodal AI Creative Workbench** and **Sketch-to-UI Design System & Accessibility Token Auditor**. |
+
+---
+
+### 🚀 Selected Open-Source Contributions *(12 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 9 CI & Audit Verified 🛡️)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
-| **[solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)** | `Rust` `Anchor` `Solana` `TypeScript` | PDA rent-payer authority validation & cross-framework SPL token example parity (`5/5 CI & Greptile Green`) | [PR #760 🛡️ 5/5 CI & Audit Passed](https://github.com/solana-foundation/program-examples/pull/760) |
-| **[TheSolaAI/sola-application](https://github.com/TheSolaAI/sola-application)** | `Next.js` `TypeScript` `Tailwind` | Custom handsfree Solana `BlinkMessageItem` component & `getBlinks` AI tool integration | [PR #496 🟢 Sourcery LGTM / Awaiting Merge](https://github.com/TheSolaAI/sola-application/pull/496) |
-| **[BAWES-Universe/studenthub](https://github.com/BAWES-Universe/studenthub)** | `PHP/Yii2` `TypeScript` `Ionic` | S3/MediaConvert credential hardening & Civil ID upload/validation security flow | [PR #128 🛡️ Review Addressed / Awaiting Merge](https://github.com/BAWES-Universe/studenthub/pull/128) |
-| **[PayStell/paystell-website](https://github.com/PayStell/paystell-website)** | `Next.js` `TypeScript` `Stellar SDK` `Tailwind` | 4-step Stellar wallet withdrawal flow with Stepper UX, Ed25519 validation, reserve guards & 2FA confirmation | [PR #141 🛡️ Audit & Tests Passed](https://github.com/PayStell/paystell-website/pull/141) |
-| **[arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains)** | `TypeScript` `Node.js` `Wasm` | AWS Comprehend PII redaction, Qdrant Vector DB REST client & Google PaLM 2 SDK integration | [PR #711 🟢 CLA Signed & CI Clean](https://github.com/arakoodev/EdgeChains/pull/711) / [PR #713 🟢 CI Clean](https://github.com/arakoodev/EdgeChains/pull/713) / [PR #714 🟢 CI Clean](https://github.com/arakoodev/EdgeChains/pull/714) |
-| **[javelin-anticheat/py-workedtask](https://github.com/javelin-anticheat/py-workedtask)** | `Python` `C++` | Executable/script SHA-256 hash verification & anti-cheat debugger/process protection | [PR #72 🟢 Open](https://github.com/javelin-anticheat/py-workedtask/pull/72) / [PR #73 🟢 Open](https://github.com/javelin-anticheat/py-workedtask/pull/73) |
-| **[PG-AGI/toingg-jarvis](https://github.com/PG-AGI/toingg-jarvis)** | `Python` `Go` `Fyne GUI` | Cross-platform desktop GUI controller, Playwright multipart uploads & native installers (`.exe/.deb/.dmg`) | [PR #92 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/92) / [PR #93 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/93) / [PR #94 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/94) / [PR #95 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/95) / [PR #96 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/96) / [PR #97 🟢 Open](https://github.com/PG-AGI/toingg-jarvis/pull/97) |
-| **[lablab-ai/community-content](https://github.com/lablab-ai/community-content)** | `Markdown` `AI Tutorials` `Vectara` | Technical AI hackathon architecture guides & Vectara RAG implementation tutorials | [PR #1097 🟢 Open](https://github.com/lablab-ai/community-content/pull/1097) |
-| **[Externalize-Labs/externalize](https://github.com/Externalize-Labs/externalize)** | `Open-Source` | feat(wasm): export proveAncestor in the WebAssembly package (#26) | [PR #39 🟣 Merged](https://github.com/Externalize-Labs/externalize/pull/39) |
-| **[tldr-pages/tldr](https://github.com/tldr-pages/tldr)** | `Open-Source` | stellar: add page | [PR #24925 🛡️ Audit & Review Passed](https://github.com/tldr-pages/tldr/pull/24925) |
-| **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)** | `Open-Source` | Add Khoa Phan to Contributors list | [PR #127590 🟣 Merged](https://github.com/firstcontributions/first-contributions/pull/127590) |
-| **[PhanKhoa95/AntiQuotar](https://github.com/PhanKhoa95/AntiQuotar)** | `Open-Source` | docs(telemetry): add quota telemetry guide part 3 | [PR #1 🟣 Merged](https://github.com/PhanKhoa95/AntiQuotar/pull/1) / [PR #2 🟣 Merged](https://github.com/PhanKhoa95/AntiQuotar/pull/2) / [PR #3 🟣 Merged](https://github.com/PhanKhoa95/AntiQuotar/pull/3) |
+| **[Externalize-Labs/externalize](https://github.com/Externalize-Labs/externalize)** | `Rust` `WebAssembly` `Stellar XDR` | Export cryptographic `proveAncestor` verifier to the WebAssembly package with `certified_seq` parity & `wasm-bindgen` test suite (Merged by `@samjay8` at `a927da3`) | [PR #39 🟣 Merged](https://github.com/Externalize-Labs/externalize/pull/39) |
+| **[BasedHardware/omi](https://github.com/BasedHardware/omi)** | `Python` `FastAPI` `Stripe Billing` | Currency-aware Stripe subscription management, ISO-4217 Zero-Decimal (`JPY`) formatting & pre-mutation schedule guards (Reviewed & Credited in `main` merge `#23591`) | [🟣 Credited in Main (#23591)](https://github.com/BasedHardware/omi/pull/23591) / [PR #23597 (Maintainer Acknowledged)](https://github.com/BasedHardware/omi/pull/23597) |
+| **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)** | `Rust` `GPUI` `AWS S3 Multipart` | Desktop recording engine architecture, upload bandwidth scaling & exponential backoff retry design (`Linear CAP-920`) | [📐 Linear CAP-920 (#3218)](https://github.com/CapSoftware/Cap/issues/3218) / [PR #3188 (Maintainer Endorsed)](https://github.com/CapSoftware/Cap/pull/3188) |
+| **[solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)** | `Rust` `Anchor` `Solana SPL` `TypeScript` | PDA rent-payer authority validation & cross-framework Anchor/Native SPL token parity (`5/5 Greptile Score & CI Green`) | [PR #760 🛡️ 5/5 Audit & CI Passed](https://github.com/solana-foundation/program-examples/pull/760) |
+| **[BAWES-Universe/studenthub](https://github.com/BAWES-Universe/studenthub)** | `PHP/Yii2` `TypeScript` `AWS S3` | Transactional DB-commit-before-S3-delete Civil ID flow & AWS MediaConvert credential hardening (`3/3 CI Gates Green`) | [PR #128 🛡️ 3/3 CI Gates Green](https://github.com/BAWES-Universe/studenthub/pull/128) |
+| **[PayStell/paystell-website](https://github.com/PayStell/paystell-website)** | `Next.js` `TypeScript` `Stellar SDK` | 4-step Stellar wallet withdrawal flow with Stepper UX, Ed25519 address validation, reserve guards, 2FA & ARIA accessibility | [PR #141 🛡️ Audit & Tests Passed](https://github.com/PayStell/paystell-website/pull/141) |
+| **[TheSolaAI/sola-application](https://github.com/TheSolaAI/sola-application)** | `Next.js` `TypeScript` `Solana Blinks` | Custom handsfree Solana `BlinkMessageItem` execution component & `getBlinks` AI tool integration (`@sourcery-ai LGTM`) | [PR #496 🟢 Sourcery LGTM](https://github.com/TheSolaAI/sola-application/pull/496) |
+| **[tldr-pages/tldr](https://github.com/tldr-pages/tldr)** | `Stellar CLI` `Documentation` | Official CLI command reference for `stellar-cli` smart contract deployment & network configuration (`64k+ ⭐ repository`) | [PR #24925 🛡️ CI & Review Passed](https://github.com/tldr-pages/tldr/pull/24925) |
+| **[arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains)** | `TypeScript` `Node.js` `Wasm` | AWS Comprehend PII redaction, Qdrant Vector DB REST client & Google PaLM 2 SDK integration (`CLA Signed & CI Clean`) | [PR #711 🟢 CLA Signed & CI Clean](https://github.com/arakoodev/EdgeChains/pull/711) / [PR #713 🟢 CI Clean](https://github.com/arakoodev/EdgeChains/pull/713) / *(+1 more clean PRs)* |
+| **[javelin-anticheat/py-workedtask](https://github.com/javelin-anticheat/py-workedtask)** | `Python` `C++` | Executable/script SHA-256 hash verification & anti-cheat debugger/process protection | [PR #72 🟢 Open (CI Clean)](https://github.com/javelin-anticheat/py-workedtask/pull/72) / [PR #73 🟢 Open (CI Clean)](https://github.com/javelin-anticheat/py-workedtask/pull/73) |
+| **[PG-AGI/toingg-jarvis](https://github.com/PG-AGI/toingg-jarvis)** | `Python` `Go` `Fyne GUI` | Cross-platform desktop GUI controller, Playwright multipart uploads & native installers (`.exe/.deb/.dmg`) | [PR #92 🟢 Open (CI Clean)](https://github.com/PG-AGI/toingg-jarvis/pull/92) / [PR #93 🟢 Open (CI Clean)](https://github.com/PG-AGI/toingg-jarvis/pull/93) / *(+4 more clean PRs)* |
+| **[lablab-ai/community-content](https://github.com/lablab-ai/community-content)** | `Markdown` `AI Architecture` `Vectara` | Technical AI hackathon architecture guides & Vectara RAG implementation tutorials | [PR #1097 🟢 Open (CI Clean)](https://github.com/lablab-ai/community-content/pull/1097) |
 
 ---
 
-### ⚙️ Engineering Principles
+### 🛡️ Application & AI/ML Security Engineering *(Defensive Overview)*
 
-- **Evidence-First Architecture:** Deep root-cause analysis (RCA), data contract verification, and upstream codebase alignment before writing implementation code.
-- **Security & Idempotency by Default:** Zero-hardcoded secrets, strict webhook idempotency, atomic database state transitions, and defensive error handling.
-- **Minimal, Clean Diffs:** Focused pull requests with comprehensive unit/integration test coverage that respect repository conventions and CI/CD pipelines.
+In addition to feature and protocol engineering, I conduct defensive security auditing and build fail-closed safeguards across Web3 and AI/ML infrastructure *(adhering strictly to responsible disclosure — only defensive methodologies are summarized publicly)*:
+
+- **Stream & Transport Framing Integrity:** Mitigating cross-chunk framing discrepancies (`CWE-444`) in Server-Sent Events (SSE) and streaming LLM proxies by enforcing full-frame reassembly before guardrail inspection.
+- **Transactional Cloud & Financial State Safety:** Enforcing strict `DB-Commit-Before-External-Mutation` ordering (preventing premature cloud asset deletion or billing schedule corruption) and integer minor-unit math (`Zero-Decimal` & basis points).
+- **Fail-Closed Authentication & Dependency Gates:** Hardening signature verification (`Ed25519` / `HMAC`), preventing SSRF on user-supplied webhook endpoints, and ensuring `bun/cargo/npm` security audit gates never fail open on unparseable output.
+
+---
+
+### 🔒 Commercial & Enterprise Systems Background *(Proprietary / Under NDA)*
+
+Beyond my open-source repositories and community toolkits above, I have architected and operated **35+ proprietary production systems** under commercial and client NDAs:
+- **Enterprise ERP, PropTech & Operations Platforms:** Local-first resource planning, construction/project management dashboards, and automated property management suites.
+- **High-Concurrency FinTech & E-Commerce Fulfillment:** Sub-50ms idempotent banking webhook processors, atomic inventory ledgers, and automated warranty fulfillment engines.
+- **Multimodal AI, Voice Synthesis & 3D Pipelines:** Neural TTS/ASR audio mastering (`-14 LUFS`), programmatic 3D/VRM generation, and high-speed desktop/browser RPA infrastructure.
 
 ---
 
 ### 📫 Connect & Collaborate
 
 - **GitHub:** [@khoap1220-hue](https://github.com/khoap1220-hue)
-- **Flagship Public Labs:** [Master-Lab (Omni AI Creative Studio v11.0)](https://github.com/khoap1220-hue/Master-Lab) • [Phan-ng-Khoa (AI Design Visionary)](https://github.com/khoap1220-hue/Phan-ng-Khoa)
-- **Location:** Vietnam (UTC+7)
-- **Available for:** Open-Source Collaboration, Custom Enterprise Full-Stack & AI Automation Architecture, and Technical Consulting
+- **Open-Source Community Kits:** [`soroban-xdr-proof-kit`](https://github.com/khoap1220-hue/soroban-xdr-proof-kit) • [`go-preflight-sql-guard`](https://github.com/khoap1220-hue/go-preflight-sql-guard) • [`ts-idempotent-webhook-guard`](https://github.com/khoap1220-hue/ts-idempotent-webhook-guard) • [`py-stream-and-billing-guard`](https://github.com/khoap1220-hue/py-stream-and-billing-guard)
+- **Location:** Vietnam (`UTC+7`)
