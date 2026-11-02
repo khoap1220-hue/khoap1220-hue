@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="235" viewBox="0 0 896 235" fill="none">
+  <defs>
+    <linearGradient id="bg3d" x1="0" y1="0" x2="896" y2="235" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="50%" stop-color="#0d1322"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+    <linearGradient id="coreTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="coreLeft" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="100%" stop-color="#0d419d"/>
+    </linearGradient>
+    <linearGradient id="coreRight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1158c7"/>
+      <stop offset="100%" stop-color="#072257"/>
+    </linearGradient>
+    <radialGradient id="glowCenter" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.32"/>
+      <stop offset="60%" stop-color="#7d00ff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#090d16" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Outer 3D Viewport Frame -->
+  <rect x="1.5" y="1.5" width="893" height="232" rx="10" fill="url(#bg3d)" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="6" y="6" width="884" height="223" rx="7" fill="none" stroke="#1f6feb" stroke-opacity="0.25" stroke-width="1"/>
+
+  <!-- Isometric 3D Floor Grid -->
+  <g stroke="#1f6feb" stroke-opacity="0.14" stroke-width="1">
+    <line x1="120" y1="225" x2="448" y2="55"/>
+    <line x1="220" y1="225" x2="508" y2="75"/>
+    <line x1="320" y1="225" x2="568" y2="95"/>
+    <line x1="420" y1="225" x2="628" y2="115"/>
+    <line x1="776" y1="225" x2="448" y2="55"/>
+    <line x1="676" y1="225" x2="388" y2="75"/>
+    <line x1="576" y1="225" x2="328" y2="95"/>
+    <line x1="476" y1="225" x2="268" y2="115"/>
+    <ellipse cx="448" cy="126" rx="235" ry="72" stroke="#58a6ff" stroke-opacity="0.16" stroke-dasharray="4 6"/>
+    <ellipse cx="448" cy="126" rx="145" ry="46" stroke="#3fb950" stroke-opacity="0.22" stroke-dasharray="3 5"/>
+  </g>
+
+  <!-- Ambient 3D Core Glow -->
+  <circle cx="448" cy="118" r="115" fill="url(#glowCenter)"/>
+
+  <!-- 3D Isometric Conduits Connecting 4 Satellite Cubes to Central Core -->
+  <g stroke-width="2" fill="none">
+    <path id="pathRust" d="M210 72 L448 118" stroke="#dea584" stroke-opacity="0.45" stroke-dasharray="5 4"/>
+    <path id="pathGo" d="M686 72 L448 118" stroke="#00ADD8" stroke-opacity="0.45" stroke-dasharray="5 4"/>
+    <path id="pathTs" d="M210 170 L448 118" stroke="#3178c6" stroke-opacity="0.45" stroke-dasharray="5 4"/>
+    <path id="pathPy" d="M686 170 L448 118" stroke="#3fb950" stroke-opacity="0.45" stroke-dasharray="5 4"/>
+  </g>
+
+  <!-- Animated Data Pulses Traveling Along 3D Conduits -->
+  <circle r="3.5" fill="#dea584">
+    <animateMotion dur="2.6s" repeatCount="indefinite" path="M210 72 L448 118"/>
+  </circle>
+  <circle r="3.5" fill="#00ADD8">
+    <animateMotion dur="2.9s" repeatCount="indefinite" path="M686 72 L448 118"/>
+  </circle>
+  <circle r="3.5" fill="#58a6ff">
+    <animateMotion dur="2.4s" repeatCount="indefinite" path="M210 170 L448 118"/>
+  </circle>
+  <circle r="3.5" fill="#3fb950">
+    <animateMotion dur="2.7s" repeatCount="indefinite" path="M686 170 L448 118"/>
+  </circle>
+
+  <!-- Satellite Node 1 (Top-Left): RUST / WASM 3D Isometric Cube -->
+  <g transform="translate(182, 46)">
+    <polygon points="28,0 56,14 28,28 0,14" fill="#f0b999" stroke="#dea584" stroke-width="1"/>
+    <polygon points="0,14 28,28 28,58 0,44" fill="#b57c5c" stroke="#dea584" stroke-width="1"/>
+    <polygon points="28,28 56,14 56,44 28,58" fill="#855439" stroke="#dea584" stroke-width="1"/>
+    <animateTransform attributeName="transform" type="translate" values="182,44; 182,50; 182,44" dur="3.6s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(24, 48)">
+    <rect x="0" y="0" width="146" height="46" rx="6" fill="#161b22" stroke="#dea584" stroke-width="1.2"/>
+    <text x="10" y="18" fill="#dea584" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700">🧊 RUST • WASM • XDR</text>
+    <text x="10" y="34" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">FIPS SHA-256 &amp; Soroban</text>
+  </g>
+
+  <!-- Satellite Node 2 (Top-Right): GO 1.22+ 3D Isometric Cube -->
+  <g transform="translate(658, 46)">
+    <polygon points="28,0 56,14 28,28 0,14" fill="#5ce1ff" stroke="#00ADD8" stroke-width="1"/>
+    <polygon points="0,14 28,28 28,58 0,44" fill="#00ADD8" stroke="#00ADD8" stroke-width="1"/>
+    <polygon points="28,28 56,14 56,44 28,58" fill="#007796" stroke="#00ADD8" stroke-width="1"/>
+    <animateTransform attributeName="transform" type="translate" values="658,50; 658,44; 658,50" dur="3.8s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(726, 48)">
+    <rect x="0" y="0" width="146" height="46" rx="6" fill="#161b22" stroke="#00ADD8" stroke-width="1.2"/>
+    <text x="10" y="18" fill="#00ADD8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700">🧊 GO 1.22+ • SQL GUARD</text>
+    <text x="10" y="34" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">SQLite3 Binary &amp; Pool</text>
+  </g>
+
+  <!-- Satellite Node 3 (Bottom-Left): TYPESCRIPT 3D Isometric Cube -->
+  <g transform="translate(182, 142)">
+    <polygon points="28,0 56,14 28,28 0,14" fill="#6cb6ff" stroke="#58a6ff" stroke-width="1"/>
+    <polygon points="0,14 28,28 28,58 0,44" fill="#3178c6" stroke="#58a6ff" stroke-width="1"/>
+    <polygon points="28,28 56,14 56,44 28,58" fill="#1d4d82" stroke="#58a6ff" stroke-width="1"/>
+    <animateTransform attributeName="transform" type="translate" values="182,144; 182,138; 182,144" dur="3.4s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(24, 146)">
+    <rect x="0" y="0" width="146" height="46" rx="6" fill="#161b22" stroke="#3178c6" stroke-width="1.2"/>
+    <text x="10" y="18" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700">🧊 TYPESCRIPT • WAL</text>
+    <text x="10" y="34" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">Idempotency &amp; Stripe HMAC</text>
+  </g>
+
+  <!-- Satellite Node 4 (Bottom-Right): PYTHON 3.12 3D Isometric Cube -->
+  <g transform="translate(658, 142)">
+    <polygon points="28,0 56,14 28,28 0,14" fill="#56d364" stroke="#3fb950" stroke-width="1"/>
+    <polygon points="0,14 28,28 28,58 0,44" fill="#2ea043" stroke="#3fb950" stroke-width="1"/>
+    <polygon points="28,28 56,14 56,44 28,58" fill="#196c2e" stroke="#3fb950" stroke-width="1"/>
+    <animateTransform attributeName="transform" type="translate" values="658,138; 658,144; 658,138" dur="3.5s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(726, 146)">
+    <rect x="0" y="0" width="146" height="46" rx="6" fill="#161b22" stroke="#3fb950" stroke-width="1.2"/>
+    <text x="10" y="18" fill="#3fb950" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700">🧊 PYTHON • SSE &amp; DLP</text>
+    <text x="10" y="34" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">Stream Framing &amp; ISO-4217</text>
+  </g>
+
+  <!-- Rotating 3D Gyroscope Orbital Rings Around Central Core -->
+  <g transform="translate(448, 118)">
+    <g>
+      <ellipse cx="0" cy="0" rx="84" ry="30" stroke="#58a6ff" stroke-width="1.4" stroke-dasharray="10 6" fill="none"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <ellipse cx="0" cy="0" rx="68" ry="24" stroke="#a371f7" stroke-width="1.4" stroke-dasharray="6 8" fill="none"/>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Central Multi-Layer 3D Isometric Core Cube -->
+  <g transform="translate(404, 66)">
+    <animateTransform attributeName="transform" type="translate" values="404,63; 404,70; 404,63" dur="4s" repeatCount="indefinite"/>
+    <!-- Base Pedestal Layer -->
+    <polygon points="44,44 88,66 44,88 0,66" fill="#1f6feb" fill-opacity="0.35" stroke="#58a6ff" stroke-width="1.2"/>
+    <!-- Main 3D Isometric Cube -->
+    <polygon points="44,4 88,26 44,48 0,26" fill="url(#coreTop)" stroke="#79c0ff" stroke-width="1.5"/>
+    <polygon points="0,26 44,48 44,96 0,74" fill="url(#coreLeft)" stroke="#58a6ff" stroke-width="1.5"/>
+    <polygon points="44,48 88,26 88,74 44,96" fill="url(#coreRight)" stroke="#388bfd" stroke-width="1.5"/>
+    <!-- Inner Holographic Octahedron Wireframe -->
+    <polygon points="44,12 68,26 44,40 20,26" fill="none" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1"/>
+    <line x1="44" y1="4" x2="44" y2="48" stroke="#79c0ff" stroke-opacity="0.6" stroke-width="1"/>
+  </g>
+
+  <!-- Top Header Banner Title -->
+  <text x="448" y="25" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">KHOA PHAN (@khoap1220-hue) — 3D POLYGLOT SYSTEMS &amp; WEB3 ARCHITECTURE CORE</text>
+
+  <!-- Bottom Interactive 3D STL Viewer Call-to-Action Pill -->
+  <g transform="translate(238, 200)">
+    <rect x="0" y="0" width="420" height="24" rx="12" fill="#161b22" stroke="#58a6ff" stroke-width="1.2"/>
+    <text x="210" y="15.5" fill="#79c0ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="middle">🧊 Click Banner to Open Interactive 360° WebGL 3D Model (.STL) on GitHub ↗</text>
+  </g>
+</svg>
