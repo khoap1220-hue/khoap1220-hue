@@ -16,13 +16,64 @@ I build high-reliability **Rust & WebAssembly cryptographic toolkits**, **fault-
 
 ---
 
-### 🧊 3D Interactive Systems Architecture & Pinned Open-Source Toolkits *(Click 3D Hologram for 360° WebGL Viewer)*
+### 🕹️ Playable 3D Arcade Mini-Game & Pinned Open-Source Toolkits *(Click Arcade Screen to Play 60-FPS 3D Game!)*
 
 <p align="center">
-  <a href="https://github.com/khoap1220-hue/khoap1220-hue/blob/main/assets/3d/matrix-polyhedron-core.stl">
-    <img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/3d/hero-3d-command-center.svg?v=4" width="99%" alt="3D Systems Architecture Hologram — Click to Launch 360° Interactive .STL Viewer" />
+  <a href="https://khoap1220-hue.github.io/">
+    <img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/3d/hero-3d-command-center.svg?v=5" width="99%" alt="Playable 60-FPS 3D Mini-Game: POLYGLOT CORE DEFENDER 3D — Click to Play Live!" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://khoap1220-hue.github.io/"><img src="https://img.shields.io/badge/🕹️_PLAY_LIVE_60--FPS_3D_MINI--GAME-Mouse_/_WASD_+_Retro_Synth_SFX-238636?style=for-the-badge" alt="Play 60-FPS 3D Mini-Game" /></a>
+  <a href="https://github.com/khoap1220-hue/khoap1220-hue/blob/main/assets/3d/matrix-polyhedron-core.stl"><img src="https://img.shields.io/badge/🧊_OPEN_360°_WEBGL_3D_MODEL-.STL_CAD_Mesh_(196_Facets)-1f6feb?style=for-the-badge" alt="Open 360 WebGL STL Model" /></a>
+</p>
+
+<details>
+  <summary>🎮 <b>Quick-Play Directly Inside This README (Zero Page Leave): "3:00 AM Production Incident Commander" (3 Boss Waves) — Click to Start!</b></summary>
+  <br/>
+  <blockquote>
+    <b>🚨 BOSS WAVE 1 / 3 — THE 20x CONCURRENT WEBHOOK STORM:</b><br/>
+    A payment gateway fires <b>20 identical transfer webhooks within 2 milliseconds</b> during a network retry storm. Your database balance ledger is about to credit the user 20 times! <b>Choose your defense weapon:</b>
+  </blockquote>
+
+  <details>
+    <summary>👉 <b>[Option A]</b> Run <code>SELECT * FROM payments WHERE ref = ?</code> followed by <code>INSERT</code></summary>
+    <blockquote>
+      ❌ <b>GAME OVER (TOCTOU Race Condition!):</b> All 20 concurrent requests pass the <code>SELECT</code> check within the same 2ms window before the first <code>INSERT</code> commits. Balance credited 20×!<br/>
+      🔄 <i>Try Option B below!</i>
+    </blockquote>
+  </details>
+
+  <details>
+    <summary>👉 <b>[Option B]</b> Deploy <b><code>ts-idempotent-webhook-guard</code></b> (In-Flight <code>Promise.all</code> Lock + JSONL Write-Ahead Log)</summary>
+    <blockquote>
+      🏆 <b>CRITICAL HIT (+2,500 XP • 2.5x COUNTER)!</b> Request #1 acquires the in-flight mutex and writes to the durable JSONL WAL; Requests #2–#20 immediately receive <code>{ duplicate: true }</code> in <code>0.08ms</code>!<br/><br/>
+      <b>🔥 UNLOCKED BOSS WAVE 2 / 3 — THE SPLIT-PACKET SSE SECRET LEAK:</b><br/>
+      An AI streaming endpoint splits an OpenAI secret key across two TCP chunks: Chunk 1 ends with <code>sk-proj-abc</code> and Chunk 2 starts with <code>1234567890...</code>. Per-chunk regex misses it! <b>Choose your next weapon:</b>
+
+      <details>
+        <summary>👉 <b>[Deploy 🐍 <code>py-stream-and-billing-guard</code>]</b> Cross-Chunk <code>SSEFrameAssembler</code> + Sliding-Window DLP</summary>
+        <blockquote>
+          🏆 <b>DOUBLE KILL (+5,000 XP)!</b> The W3C SSE frame assembler reconstructs split chunks across TCP boundaries and redacts the leaked token before flush!<br/><br/>
+          <b>👑 FINAL BOSS WAVE 3 / 3 — THE TAMPERED STELLAR XDR LEDGER HEADER:</b><br/>
+          A malicious RPC node feeds your indexer a 400-byte binary <code>LedgerHeader</code> XDR frame with a forged <code>previous_ledger_hash</code> link at sequence <code>#54,000,002</code>!
+
+          <details>
+            <summary>👉 <b>[Unleash 🦀 <code>soroban-xdr-proof-kit</code> + 🐹 <code>go-preflight-sql-guard</code>]</b> RFC 4506 Binary XDR + FIPS 180-4 SHA-256 Ancestry Proof</summary>
+            <blockquote>
+              🎉 <b>VICTORY — SOVEREIGN POLYGLOT ARCHITECT RANK UNLOCKED! (SCORE: 15,000 / 15,000 • 99.999% UPTIME)</b><br/>
+              ✔ Forged XDR frame rejected in <code>0.12ms</code> via deterministic SHA-256 hash-link verification!<br/>
+              👉 <b>Want real-time 60-FPS 3D action with Mouse/WASD aiming &amp; sound? <a href="https://khoap1220-hue.github.io/">Launch the full 3D WebGL/Canvas Arcade Game here ↗</a></b>
+            </blockquote>
+          </details>
+        </blockquote>
+      </details>
+    </blockquote>
+  </details>
+</details>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/khoap1220-hue/soroban-xdr-proof-kit"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/soroban-xdr-proof-kit.svg?v=4" width="49%" alt="soroban-xdr-proof-kit" /></a>
