@@ -82,8 +82,15 @@ Beyond my open-source repositories and community toolkits above, I have architec
 
 ---
 
-### 📫 Connect & Collaborate
+### 🟢 Collaboration, Grants & Hiring Readiness *(For CTOs, Maintainers & Recruiters)*
+
+| Engagement Track | Core Stack & Domain | Delivery Standard & Verification Guarantee | Response SLA |
+| :--- | :--- | :--- | :---: |
+| **1. Protocol Grants & Ecosystem Waves** | `Rust` `Soroban / Stellar XDR` `Solana / Anchor` `WebAssembly` | End-to-end RFC/XDR compliance, deterministic unit & integration suites (`cargo test` / `wasm-bindgen-test`), **100% GPG-Signed (`Verified`)** commits. | **`< 2 Hours`** |
+| **2. Paid Bounties & Production Trials** | `Go 1.22+` `TypeScript / Next.js` `Python / FastAPI` `PostgreSQL` | Clean single-commit atomic PRs, zero linter regressions, race-detector verified (`go test -race`), ready to merge within **4–6 hours** of assignment. | **`< 2 Hours`** |
+| **3. Defensive Security & FinTech Audits** | `SSE / LLM Proxy Framing` `Stripe / Webhook Idempotency` `SSRF / Auth` | Reproducible containerized PoCs, fail-closed remediation patches, and strict responsible disclosure. | **`< 4 Hours`** |
+| **4. Senior Systems / Web3 Engineering Roles** | `Distributed Systems` `Blockchain Indexers` `High-Throughput Backends` | Full-time remote, contract, or technical advisory across `UTC+7` / US / EU overlapping hours. | **`< 4 Hours`** |
 
 - **GitHub:** [@khoap1220-hue](https://github.com/khoap1220-hue)
-- **Open-Source Community Kits:** [`soroban-xdr-proof-kit`](https://github.com/khoap1220-hue/soroban-xdr-proof-kit) • [`go-preflight-sql-guard`](https://github.com/khoap1220-hue/go-preflight-sql-guard) • [`ts-idempotent-webhook-guard`](https://github.com/khoap1220-hue/ts-idempotent-webhook-guard) • [`py-stream-and-billing-guard`](https://github.com/khoap1220-hue/py-stream-and-billing-guard)
-- **Location:** Vietnam (`UTC+7`)
+- **Open-Source Community Kits (`MIT`):** [`soroban-xdr-proof-kit`](https://github.com/khoap1220-hue/soroban-xdr-proof-kit/releases) • [`go-preflight-sql-guard`](https://github.com/khoap1220-hue/go-preflight-sql-guard/releases) • [`ts-idempotent-webhook-guard`](https://github.com/khoap1220-hue/ts-idempotent-webhook-guard/releases) • [`py-stream-and-billing-guard`](https://github.com/khoap1220-hue/py-stream-and-billing-guard/releases)
+- **Location:** Vietnam (`UTC+7` — Global Remote Coverage)
