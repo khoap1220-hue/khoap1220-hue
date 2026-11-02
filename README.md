@@ -19,16 +19,16 @@ I build high-reliability **Rust & WebAssembly cryptographic toolkits**, **fault-
 ### 📌 Pinned Repositories — Open-Source Community Toolkits *(MIT Licensed)*
 
 <p align="center">
-  <a href="https://github.com/khoap1220-hue/soroban-xdr-proof-kit"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/soroban-xdr-proof-kit.svg" width="49%" alt="soroban-xdr-proof-kit" /></a>
-  <a href="https://github.com/khoap1220-hue/go-preflight-sql-guard"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/go-preflight-sql-guard.svg" width="49%" alt="go-preflight-sql-guard" /></a>
+  <a href="https://github.com/khoap1220-hue/soroban-xdr-proof-kit"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/soroban-xdr-proof-kit.svg?v=2" width="49%" alt="soroban-xdr-proof-kit" /></a>
+  <a href="https://github.com/khoap1220-hue/go-preflight-sql-guard"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/go-preflight-sql-guard.svg?v=2" width="49%" alt="go-preflight-sql-guard" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/khoap1220-hue/ts-idempotent-webhook-guard"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/ts-idempotent-webhook-guard.svg" width="49%" alt="ts-idempotent-webhook-guard" /></a>
-  <a href="https://github.com/khoap1220-hue/py-stream-and-billing-guard"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/py-stream-and-billing-guard.svg" width="49%" alt="py-stream-and-billing-guard" /></a>
+  <a href="https://github.com/khoap1220-hue/ts-idempotent-webhook-guard"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/ts-idempotent-webhook-guard.svg?v=2" width="49%" alt="ts-idempotent-webhook-guard" /></a>
+  <a href="https://github.com/khoap1220-hue/py-stream-and-billing-guard"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/py-stream-and-billing-guard.svg?v=2" width="49%" alt="py-stream-and-billing-guard" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/khoap1220-hue/solana-validator-ordering-post-alpenglow"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/solana-validator-ordering-post-alpenglow.svg" width="49%" alt="solana-validator-ordering-post-alpenglow" /></a>
-  <a href="https://github.com/khoap1220-hue/Master-Lab"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/Master-Lab.svg" width="49%" alt="Master-Lab" /></a>
+  <a href="https://github.com/khoap1220-hue/solana-validator-ordering-post-alpenglow"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/solana-validator-ordering-post-alpenglow.svg?v=2" width="49%" alt="solana-validator-ordering-post-alpenglow" /></a>
+  <a href="https://github.com/khoap1220-hue/Master-Lab"><img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/pins/Master-Lab.svg?v=2" width="49%" alt="Master-Lab" /></a>
 </p>
 
 ---

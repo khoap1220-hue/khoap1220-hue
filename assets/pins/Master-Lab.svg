@@ -2,16 +2,16 @@
   <rect x="1" y="1" width="438" height="133" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <g transform="translate(16, 18)">
     <path fill="#8b949e" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/>
-    <text x="24" y="12.5" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Master-Lab</text>
-    <rect x="302" y="-1" width="106" height="18" rx="9" fill="#161b22" stroke="#2ea043" stroke-width="1"/>
-    <text x="355" y="11" fill="#3fb950" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle">v11.0 • GPG Verified</text>
+    <text x="24" y="12.5" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600">Master-Lab</text>
+    <rect x="292" y="-1" width="116" height="18" rx="9" fill="#161b22" stroke="#2ea043" stroke-width="1"/>
+    <text x="350" y="11" fill="#3fb950" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle">v11.0 • GPG Verified</text>
   </g>
-  <text x="16" y="56" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Omni Master Intelligence — Multimodal AI Creative Studio & Agentic</text>
-  <text x="16" y="74" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Visual Workflow Engine (TypeScript / React 19 / Gemini 3.1).</text>
+  <text x="16" y="56" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Omni Master Intelligence — Multimodal AI Creative Studio &amp; Agentic</text>
+  <text x="16" y="74" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Visual Workflow Engine (TypeScript / React 19 / Gemini 3.1).</text>
   <g transform="translate(16, 106)">
     <circle cx="6" cy="-4" r="6" fill="#3178c6"/>
     <text x="18" y="0" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">TypeScript</text>
-    <text x="135" y="0" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">⚖️ MIT License</text>
-    <text x="255" y="0" fill="#3fb950" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="500">✔ Production Studio</text>
+    <text x="135" y="0" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">MIT License</text>
+    <text x="245" y="0" fill="#3fb950" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600">✔ Production Studio</text>
   </g>
 </svg>
