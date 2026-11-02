@@ -1,8 +1,10 @@
 # Khoa Phan (Phan Đăng Khoa) 👋
 
-**Systems, Web3 & Full-Stack Software Engineer (`Rust` • `Go` • `TypeScript` • `Python`)**
+**Polyglot Systems & Web3 Engineer (`Rust` • `Go` • `TS` • `Python`) | Shipping 10x Faster via Custom Agentic Verification Pipelines | `100% GPG-Verified`**
 
-I build high-reliability **Rust & WebAssembly cryptographic toolkits**, **fault-tolerant Go backends & indexers**, **idempotent TypeScript/Next.js Web3 SDKs**, and **defensive Python/FastAPI financial & streaming systems**. All commits are **100% GPG-signed (`Verified`)** and backed by deterministic automated test suites.
+> *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — powered by my proprietary multi-agent verification & triage pipeline, with every single line human-audited, race-tested (`go test -race`), and **100% GPG-signed (`Verified`)**."*
+
+I build high-reliability **Rust & WebAssembly cryptographic toolkits**, **fault-tolerant Go backends & indexers**, **idempotent TypeScript/Next.js Web3 SDKs**, and **defensive Python/FastAPI financial & streaming systems**. Every commit is human-reviewed, verified against deterministic test suites, and cryptographically signed.
 
 ![Rust](https://img.shields.io/badge/Rust_&_Wasm-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go_1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -105,9 +107,9 @@ I build high-reliability **Rust & WebAssembly cryptographic toolkits**, **fault-
 
 ### 🎁 Featured Open-Source Community Toolkits *(Free & MIT Licensed — Built & Used Daily)*
 
-We actively extract and publish our core engineering primitives as **free, zero-bloat MIT open-source libraries** for the global developer community:
+I actively extract and publish my core engineering primitives as **free, zero-bloat MIT open-source libraries** for the global developer community — battle-tested in my own daily production workflows:
 
-| # | Public Community Repository | Stack & CI Verification | What It Solves for the Community (and Our Daily Workflows) |
+| # | Public Community Repository | Stack & CI Verification | What It Solves for the Community (and My Daily Production Stack) |
 | :-: | :--- | :--- | :--- |
 | **1** | **[`soroban-xdr-proof-kit`](https://github.com/khoap1220-hue/soroban-xdr-proof-kit)** | `Rust` `WebAssembly` `CLI` | Pure-Rust **FIPS 180-4 SHA-256 engine**, **RFC 4506 binary `LedgerHeader` XDR decoder/serializer** (4-byte padding & RFC 5528 record marks), hash-link ancestry verifier, and History Archive checkpoint CLI. |
 | **2** | **[`go-preflight-sql-guard`](https://github.com/khoap1220-hue/go-preflight-sql-guard)** | `Go 1.22+` `database/sql` `CLI` | **`database/sql` connection pool & read-only SQL sanitizer**, **zero-CGo SQLite3 100-byte binary header & WAL inspector**, remote Postgres TLS DSN validator, degradation circuit breaker, and query cost tracker. |
