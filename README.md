@@ -120,7 +120,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(12 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 9 CI & Audit Verified 🛡️)*
+### 🚀 Selected Open-Source Contributions *(13 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 9 CI & Audit Verified 🛡️)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
@@ -136,6 +136,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 | **[javelin-anticheat/py-workedtask](https://github.com/javelin-anticheat/py-workedtask)** | `Python` `C++` | Executable/script SHA-256 hash verification & anti-cheat debugger/process protection | [PR #72 🟢 Open (CI Clean)](https://github.com/javelin-anticheat/py-workedtask/pull/72) / [PR #73 🟢 Open (CI Clean)](https://github.com/javelin-anticheat/py-workedtask/pull/73) |
 | **[PG-AGI/toingg-jarvis](https://github.com/PG-AGI/toingg-jarvis)** | `Python` `Go` `Fyne GUI` | Cross-platform desktop GUI controller, Playwright multipart uploads & native installers (`.exe/.deb/.dmg`) | [PR #92 🟢 Open (CI Clean)](https://github.com/PG-AGI/toingg-jarvis/pull/92) / [PR #93 🟢 Open (CI Clean)](https://github.com/PG-AGI/toingg-jarvis/pull/93) / *(+4 more clean PRs)* |
 | **[lablab-ai/community-content](https://github.com/lablab-ai/community-content)** | `Markdown` `AI Architecture` `Vectara` | Technical AI hackathon architecture guides & Vectara RAG implementation tutorials | [PR #1097 🟢 Open (CI Clean)](https://github.com/lablab-ai/community-content/pull/1097) |
+| **[sorotrail/SoroBeacon](https://github.com/sorotrail/SoroBeacon)** | `Open-Source` | feat(clients): generate a Python client from the specification | [PR #680 🟣 Merged](https://github.com/sorotrail/SoroBeacon/pull/680) |
 
 ---
 
