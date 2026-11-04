@@ -120,7 +120,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(14 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 9 CI & Audit Verified 🛡️)*
+### 🚀 Selected Open-Source Contributions *(15 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 10 CI & Audit Verified 🛡️)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
@@ -138,6 +138,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 | **[lablab-ai/community-content](https://github.com/lablab-ai/community-content)** | `Markdown` `AI Architecture` `Vectara` | Technical AI hackathon architecture guides & Vectara RAG implementation tutorials | [PR #1097 🟢 Open (CI Clean)](https://github.com/lablab-ai/community-content/pull/1097) |
 | **[sorotrail/SoroBeacon](https://github.com/sorotrail/SoroBeacon)** | `Open-Source` | feat(clients): generate a Python client from the specification | [PR #680 🟣 Merged](https://github.com/sorotrail/SoroBeacon/pull/680) |
 | **[MMM-pay/payflow-docs](https://github.com/MMM-pay/payflow-docs)** | `Open-Source` | docs: add accessibility statement | [PR #107 🟣 Merged](https://github.com/MMM-pay/payflow-docs/pull/107) |
+| **[Wayfare-labs/wayfare](https://github.com/Wayfare-labs/wayfare)** | `Open-Source` | docs: add runbook for responding to a wrong published figure (#730) | [PR #860 🛡️ Audit & Review Passed](https://github.com/Wayfare-labs/wayfare/pull/860) |
 
 ---
 
