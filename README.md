@@ -120,7 +120,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(15 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 9 CI & Audit Verified 🛡️)*
+### 🚀 Selected Open-Source Contributions *(16 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 9 CI & Audit Verified 🛡️)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
@@ -139,6 +139,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 | **[sorotrail/SoroBeacon](https://github.com/sorotrail/SoroBeacon)** | `Open-Source` | feat(clients): generate a Python client from the specification | [PR #680 🟣 Merged](https://github.com/sorotrail/SoroBeacon/pull/680) |
 | **[MMM-pay/payflow-docs](https://github.com/MMM-pay/payflow-docs)** | `Open-Source` | docs: add accessibility statement | [PR #107 🟣 Merged](https://github.com/MMM-pay/payflow-docs/pull/107) |
 | **[Wayfare-labs/wayfare](https://github.com/Wayfare-labs/wayfare)** | `Open-Source` | docs: add runbook for responding to a wrong published figure (#730) | [PR #860 🟣 Merged](https://github.com/Wayfare-labs/wayfare/pull/860) |
+| **[anza-xyz/cargo-build-sbf](https://github.com/anza-xyz/cargo-build-sbf)** | `Open-Source` | Replace local SYSCALLS list with solana-define-syscall::definitions::SYSCALLS | [PR #115 🟢 Open (CI Clean)](https://github.com/anza-xyz/cargo-build-sbf/pull/115) |
 
 ---
 
