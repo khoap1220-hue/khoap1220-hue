@@ -120,7 +120,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(18 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 9 CI & Audit Verified 🛡️)*
+### 🚀 Selected Open-Source Contributions *(19 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 9 CI & Audit Verified 🛡️)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
@@ -142,6 +142,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 | **[anza-xyz/cargo-build-sbf](https://github.com/anza-xyz/cargo-build-sbf)** | `Open-Source` | Use solana_define_syscall::definitions::SYSCALLS instead of local copy | [PR #116 🟣 Merged](https://github.com/anza-xyz/cargo-build-sbf/pull/116) |
 | **[Farm-credit/stellar-app-os](https://github.com/Farm-credit/stellar-app-os)** | `Open-Source` | fix(timezone): guard localStorage access and validate stored IANA zone | [PR #1797 🟣 Merged](https://github.com/Farm-credit/stellar-app-os/pull/1797) |
 | **[ritik4ever/stellar-goal-vault](https://github.com/ritik4ever/stellar-goal-vault)** | `Open-Source` | feat(api): support sortBy and percentFunded sorting on campaign list | [PR #1377 🟣 Merged](https://github.com/ritik4ever/stellar-goal-vault/pull/1377) |
+| **[ritik4ever/stellar-stream](https://github.com/ritik4ever/stellar-stream)** | `Open-Source` | feat(a11y): add ARIA accessibility audit helpers and keyboard navigation fixes (#760) | [PR #1436 🟣 Merged](https://github.com/ritik4ever/stellar-stream/pull/1436) |
 
 ---
 
