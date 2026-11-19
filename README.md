@@ -18,16 +18,22 @@ I build high-reliability **Rust & WebAssembly cryptographic toolkits**, **fault-
 
 ---
 
+<p align="center">
+  <a href="https://khoaphan.dev"><img src="https://img.shields.io/badge/🌐_OFFICIAL_HUB-khoaphan.dev-0B1014?style=for-the-badge&labelColor=0B1014&color=0E7490" alt="Official Website khoaphan.dev" /></a>
+  <a href="https://khoap1220-hue.github.io/links/"><img src="https://img.shields.io/badge/🔗_ALL_PLATFORMS-Link_Hub-11181F?style=for-the-badge&color=17212B" alt="All-Platform Link Hub" /></a>
+  <a href="https://khoap1220-hue.github.io/brand/"><img src="https://img.shields.io/badge/🎨_PRESS_&_BRAND_KIT-Logos_&_Banners-11181F?style=for-the-badge&color=17212B" alt="Official Brand Kit" /></a>
+</p>
+
 ### 🕹️ Playable 3D Arcade Mini-Game & Pinned Open-Source Toolkits *(Click Arcade Screen to Play 60-FPS 3D Game!)*
 
 <p align="center">
-  <a href="https://khoap1220-hue.github.io/">
+  <a href="https://khoap1220-hue.github.io/arcade/">
     <img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/3d/hero-3d-command-center.svg?v=5" width="99%" alt="Playable 60-FPS 3D Mini-Game: POLYGLOT CORE DEFENDER 3D — Click to Play Live!" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://khoap1220-hue.github.io/"><img src="https://img.shields.io/badge/🕹️_PLAY_LIVE_60--FPS_3D_MINI--GAME-Mouse_/_WASD_+_Retro_Synth_SFX-238636?style=for-the-badge" alt="Play 60-FPS 3D Mini-Game" /></a>
+  <a href="https://khoap1220-hue.github.io/arcade/"><img src="https://img.shields.io/badge/🕹️_PLAY_LIVE_60--FPS_3D_MINI--GAME-Mouse_/_WASD_+_Retro_Synth_SFX-238636?style=for-the-badge" alt="Play 60-FPS 3D Mini-Game" /></a>
   <a href="https://github.com/khoap1220-hue/khoap1220-hue/blob/main/assets/3d/matrix-polyhedron-core.stl"><img src="https://img.shields.io/badge/🧊_OPEN_360°_WEBGL_3D_MODEL-.STL_CAD_Mesh_(196_Facets)-1f6feb?style=for-the-badge" alt="Open 360 WebGL STL Model" /></a>
 </p>
 
@@ -66,7 +72,7 @@ I build high-reliability **Rust & WebAssembly cryptographic toolkits**, **fault-
             <blockquote>
               🎉 <b>VICTORY — SOVEREIGN POLYGLOT ARCHITECT RANK UNLOCKED! (SCORE: 15,000 / 15,000 • 99.999% UPTIME)</b><br/>
               ✔ Forged XDR frame rejected in <code>0.12ms</code> via deterministic SHA-256 hash-link verification!<br/>
-              👉 <b>Want real-time 60-FPS 3D action with Mouse/WASD aiming &amp; sound? <a href="https://khoap1220-hue.github.io/">Launch the full 3D WebGL/Canvas Arcade Game here ↗</a></b>
+              👉 <b>Want real-time 60-FPS 3D action with Mouse/WASD aiming &amp; sound? <a href="https://khoap1220-hue.github.io/arcade/">Launch the full 3D WebGL/Canvas Arcade Game here ↗</a></b>
             </blockquote>
           </details>
         </blockquote>
@@ -177,6 +183,7 @@ Beyond my open-source repositories and community toolkits above, I have architec
 | **3. Defensive Security & FinTech Audits** | `SSE / LLM Proxy Framing` `Stripe / Webhook Idempotency` `SSRF / Auth` | Reproducible containerized PoCs, fail-closed remediation patches, and strict responsible disclosure. | **`< 4 Hours`** |
 | **4. Senior Systems / Web3 Engineering Roles** | `Distributed Systems` `Blockchain Indexers` `High-Throughput Backends` | Full-time remote, contract, or technical advisory across `UTC+7` / US / EU overlapping hours. | **`< 4 Hours`** |
 
+- **Official Hub:** [khoaphan.dev](https://khoaphan.dev) • [All-Platform Links](https://khoap1220-hue.github.io/links/) • [Brand &amp; Press Kit](https://khoap1220-hue.github.io/brand/)
 - **GitHub:** [@khoap1220-hue](https://github.com/khoap1220-hue)
 - **Open-Source Community Kits (`MIT`):** [`soroban-xdr-proof-kit`](https://github.com/khoap1220-hue/soroban-xdr-proof-kit/releases) • [`go-preflight-sql-guard`](https://github.com/khoap1220-hue/go-preflight-sql-guard/releases) • [`ts-idempotent-webhook-guard`](https://github.com/khoap1220-hue/ts-idempotent-webhook-guard/releases) • [`py-stream-and-billing-guard`](https://github.com/khoap1220-hue/py-stream-and-billing-guard/releases)
 - **Location:** Vietnam (`UTC+7` — Global Remote Coverage)
