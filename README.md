@@ -120,7 +120,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(23 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 10 CI & Audit Verified 🛡️)*
+### 🚀 Selected Open-Source Contributions *(24 Upstream Organizations • 1 Merged in `Externalize-Labs` 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • 11 CI & Audit Verified 🛡️)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
@@ -147,6 +147,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 | **[aibtcdev/x402-api](https://github.com/aibtcdev/x402-api)** | `Open-Source` | feat(x402): migrate payment middleware and polling DO to X402_RELAY RPC binding | [PR #150 🛡️ Audit & Review Passed](https://github.com/aibtcdev/x402-api/pull/150) |
 | **[wraith-protocol/contracts](https://github.com/wraith-protocol/contracts)** | `Open-Source` | feat(ckb): add malformed-witness and type-script fuzz corpus | [PR #285 🟢 Open (CI Clean)](https://github.com/wraith-protocol/contracts/pull/285) |
 | **[Altacon-Labs/RevMarket](https://github.com/Altacon-Labs/RevMarket)** | `Open-Source` | feat(backend): index confirmed market events with durable SQLite checkpoints | [PR #42 🟢 Open (CI Clean)](https://github.com/Altacon-Labs/RevMarket/pull/42) |
+| **[Miracle656/veil](https://github.com/Miracle656/veil)** | `Open-Source` | feat(mobile): add four notification categories with server sync (#1287) | [PR #1350 🛡️ Audit & Review Passed](https://github.com/Miracle656/veil/pull/1350) |
 
 ---
 
