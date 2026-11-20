@@ -119,7 +119,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(15 Upstream Organizations • 16 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
+### 🚀 Selected Open-Source Contributions *(15 Upstream Organizations • 17 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
@@ -135,7 +135,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 | **[MMM-pay/payflow-docs](https://github.com/MMM-pay/payflow-docs)** | `WCAG A11y` `Documentation` | Accessibility compliance statement and keyboard/screen-reader navigation documentation | [PR #107 🟣 Merged](https://github.com/MMM-pay/payflow-docs/pull/107) |
 | **[BasedHardware/omi](https://github.com/BasedHardware/omi)** | `Python` `FastAPI` `Stripe Billing` | ISO-4217 Zero-Decimal (`JPY`) subscription plan-change boundary test coverage acknowledged during review of `main` merge `#23591` (`8k+ ⭐`) | [🟣 Credited in Main (#23591)](https://github.com/BasedHardware/omi/pull/23591) |
 | **[aibtcdev/x402-api](https://github.com/aibtcdev/x402-api)** | `TypeScript` `Cloudflare DO` `sBTC / x402` | Migrate HTTP 402 payment middleware and Durable Object polling engine to strict `X402_RELAY` RPC bindings with 3-stage validation | [PR #150 🟡 Open In Review](https://github.com/aibtcdev/x402-api/pull/150) |
-| **[solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)** | `Rust` `Anchor` `Solana SPL` | Mandatory caller `authority` verification notes on PDA Rent-Payer examples across Anchor & Native Rust (`5/5 Greptile Score & CI Green`) | [PR #760 🟡 Open In Review (`5/5 Greptile`)](https://github.com/solana-foundation/program-examples/pull/760) |
+| **[solana-foundation/program-examples](https://github.com/solana-foundation/program-examples)** | `Rust` `Anchor` `Solana SPL` | Mandatory caller `authority` verification notes on PDA Rent-Payer examples across Anchor & Native Rust (`5/5 Greptile Score & CI Green`) | [PR #760 🟣 Merged](https://github.com/solana-foundation/program-examples/pull/760) |
 | **[wraith-protocol/contracts](https://github.com/wraith-protocol/contracts)** | `Rust` `Nervos CKB` `Fuzzing` | Malformed-witness and type-script adversarial fuzz corpus for contract verification | [PR #285 🟡 Open In Review](https://github.com/wraith-protocol/contracts/pull/285) |
 | **[Miracle656/veil](https://github.com/Miracle656/veil)** | `TypeScript` `React Native` `WebAuthn PRF` | Four notification categories with server sync, passkey PRF claim onboarding, and claim link expiry sweeps | [PR #1350 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1350) / [PR #1353 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1353) / [PR #1356 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1356) / *(+1 more open PRs)* |
 
