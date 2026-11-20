@@ -1,6 +1,6 @@
 # Khoa Phan (Phan Đăng Khoa) 👋
 
-**Polyglot Systems, Web3 & AI/MCP Architect (`Rust` • `Go` • `TS` • `Python`) | 13 Merged Upstream PRs • 6 MIT GuardKits (`GPG-Signed`) | [`khoaphan.dev`](https://khoap1220-hue.github.io/)**
+**Polyglot Systems, Web3 & AI/MCP Architect (`Rust` • `Go` • `TS` • `Python`) | 13 Merged Upstream PRs • 6 MIT GuardKits (`GPG-Signed`) | [`khoaphan.dev`](https://khoaphan.dev/)**
 
 > *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — backed by deterministic unit & concurrency test suites (`cargo test`, `go test -race`), GPG-signed MIT developer GuardKits, and live-verifiable upstream open-source merges."*
 
@@ -21,13 +21,13 @@ I build high-reliability **Rust & WebAssembly cryptographic toolkits**, **fault-
 ### 🕹️ Playable 3D Arcade Mini-Game & Pinned Open-Source Toolkits *(Click Arcade Screen to Play 60-FPS 3D Game!)*
 
 <p align="center">
-  <a href="https://khoap1220-hue.github.io/">
+  <a href="https://khoaphan.dev/arcade/">
     <img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/3d/hero-3d-command-center.svg?v=5" width="99%" alt="Playable 60-FPS 3D Mini-Game: POLYGLOT CORE DEFENDER 3D — Click to Play Live!" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://khoap1220-hue.github.io/"><img src="https://img.shields.io/badge/🕹️_PLAY_LIVE_60--FPS_3D_MINI--GAME-Mouse_/_WASD_+_Retro_Synth_SFX-238636?style=for-the-badge" alt="Play 60-FPS 3D Mini-Game" /></a>
+  <a href="https://khoaphan.dev/arcade/"><img src="https://img.shields.io/badge/🕹️_PLAY_LIVE_60--FPS_3D_MINI--GAME-Mouse_/_WASD_+_Retro_Synth_SFX-238636?style=for-the-badge" alt="Play 60-FPS 3D Mini-Game" /></a>
   <a href="https://github.com/khoap1220-hue/khoap1220-hue/blob/main/assets/3d/matrix-polyhedron-core.stl"><img src="https://img.shields.io/badge/🧊_OPEN_360°_WEBGL_3D_MODEL-.STL_CAD_Mesh_(196_Facets)-1f6feb?style=for-the-badge" alt="Open 360 WebGL STL Model" /></a>
 </p>
 
@@ -66,7 +66,7 @@ I build high-reliability **Rust & WebAssembly cryptographic toolkits**, **fault-
             <blockquote>
               🎉 <b>VICTORY — SOVEREIGN POLYGLOT ARCHITECT RANK UNLOCKED! (SCORE: 15,000 / 15,000 • 99.999% UPTIME)</b><br/>
               ✔ Forged XDR frame rejected in <code>0.12ms</code> via deterministic SHA-256 hash-link verification!<br/>
-              👉 <b>Want real-time 60-FPS 3D action with Mouse/WASD aiming &amp; sound? <a href="https://khoap1220-hue.github.io/">Launch the full 3D WebGL/Canvas Arcade Game here ↗</a></b>
+              👉 <b>Want real-time 60-FPS 3D action with Mouse/WASD aiming &amp; sound? <a href="https://khoaphan.dev/arcade/">Launch the full 3D WebGL/Canvas Arcade Game here ↗</a></b>
             </blockquote>
           </details>
         </blockquote>
@@ -174,6 +174,6 @@ Beyond my open-source repositories and community toolkits above, I have architec
 | **3. Defensive Security & FinTech Audits** | `SSE / LLM Proxy Framing` `Stripe / Webhook Idempotency` `SSRF / Auth` | Reproducible containerized PoCs, fail-closed remediation patches, and strict responsible disclosure. | **`< 4 Hours`** |
 | **4. Senior Systems / Web3 Engineering Roles** | `Distributed Systems` `Blockchain Indexers` `High-Throughput Backends` | Full-time remote, contract, or technical advisory across `UTC+7` / US / EU overlapping hours. | **`< 4 Hours`** |
 
-- **Flagship Website:** [khoaphan.dev](https://khoap1220-hue.github.io/) • **GitHub:** [@khoap1220-hue](https://github.com/khoap1220-hue)
+- **Flagship Website:** [khoaphan.dev](https://khoaphan.dev/) • **GitHub:** [@khoap1220-hue](https://github.com/khoap1220-hue)
 - **Open-Source Community Kits (`MIT`):** [`soroban-xdr-proof-kit`](https://github.com/khoap1220-hue/soroban-xdr-proof-kit/releases) • [`go-preflight-sql-guard`](https://github.com/khoap1220-hue/go-preflight-sql-guard/releases) • [`ts-idempotent-webhook-guard`](https://github.com/khoap1220-hue/ts-idempotent-webhook-guard/releases) • [`py-stream-and-billing-guard`](https://github.com/khoap1220-hue/py-stream-and-billing-guard/releases)
 - **Location:** Vietnam (`UTC+7` — Global Remote Coverage)
