@@ -11,7 +11,7 @@
     <polygon points="8,8 16,4 16,13 8,17" fill="#14F195" fill-opacity="0.40"/>
     <text x="24" y="13" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700">solana-validator-ordering-post-alpenglow</text>
     <rect x="288" y="-1" width="118" height="18" rx="9" fill="#161b22" stroke="#2ea043" stroke-width="1"/>
-    <text x="347" y="11" fill="#3fb950" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle">Research • GPG Verified</text>
+    <text x="347" y="11" fill="#3fb950" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle">Research • MIT License</text>
   </g>
   <text x="16" y="57" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Post-Alpenglow Empirical Study &amp; Agave prio-graph Simulator: How</text>
   <text x="16" y="75" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Solana Mainnet Validators Order Transactions Across 4 Client Forks.</text>
