@@ -119,7 +119,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(15 Upstream Organizations • 17 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
+### 🚀 Selected Open-Source Contributions *(16 Upstream Organizations • 18 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
@@ -138,6 +138,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 | **[aibtcdev/x402-api](https://github.com/aibtcdev/x402-api)** | `TypeScript` `Cloudflare DO` `sBTC / x402` | Migrate HTTP 402 payment middleware and Durable Object polling engine to strict `X402_RELAY` RPC bindings with 3-stage validation | [PR #150 🟡 Open In Review](https://github.com/aibtcdev/x402-api/pull/150) |
 | **[wraith-protocol/contracts](https://github.com/wraith-protocol/contracts)** | `Rust` `Nervos CKB` `Fuzzing` | Malformed-witness and type-script adversarial fuzz corpus for contract verification | [PR #285 🟡 Open In Review](https://github.com/wraith-protocol/contracts/pull/285) |
 | **[Miracle656/veil](https://github.com/Miracle656/veil)** | `TypeScript` `React Native` `WebAuthn PRF` | Four notification categories with server sync, passkey PRF claim onboarding, and claim link expiry sweeps | [PR #1350 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1350) / [PR #1353 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1353) / [PR #1356 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1356) / *(+1 more open PRs)* |
+| **[zkpayroll/zk-payroll-dashboard](https://github.com/zkpayroll/zk-payroll-dashboard)** | `Open-Source` | feat(archive): disable retention purge while settlement is pending (#859) | [PR #977 🟣 Merged](https://github.com/zkpayroll/zk-payroll-dashboard/pull/977) |
 
 ---
 
