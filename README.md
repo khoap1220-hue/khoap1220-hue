@@ -2,7 +2,7 @@
 
 **Polyglot Systems, Web3 & Custom MCP Architect (`Rust` • `Go` • `TypeScript` • `Python`) | 18 Merged Upstream PRs & 6 MIT GuardKits | [`khoaphan.dev`](https://khoaphan.dev)**
 
-> *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — backed by 18 live merged upstream pull requests, 6 MIT open-source repositories (4 GPG-signed core guardkits), 2 live web platforms ([`vrm3d.com`](https://vrm3d.com) & [`uploadhtml.com`](https://uploadhtml.com)), and resilient Custom MCP infrastructure."*
+> *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — backed by 18 live merged upstream pull requests, 6 MIT open-source repositories (4 GPG-signed core guardkits), stateful Agent-Native Python CLIs, and resilient Custom MCP infrastructure."*
 
 [![khoaphan.dev](https://img.shields.io/badge/Flagship_Hub-khoaphan.dev-0B1014?style=flat-square&logo=safari&logoColor=33F6F6)](https://khoaphan.dev)
 [![Printable CV](https://img.shields.io/badge/Printable_CV_&_PDF-/resume-0E7490?style=flat-square)](https://khoaphan.dev/resume/)
