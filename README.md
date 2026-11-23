@@ -119,7 +119,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(16 Upstream Organizations • 19 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
+### 🚀 Selected Open-Source Contributions *(17 Upstream Organizations • 20 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
@@ -139,6 +139,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 | **[wraith-protocol/contracts](https://github.com/wraith-protocol/contracts)** | `Rust` `Nervos CKB` `Fuzzing` | Malformed-witness and type-script adversarial fuzz corpus for contract verification | [PR #285 🟣 Merged](https://github.com/wraith-protocol/contracts/pull/285) |
 | **[Miracle656/veil](https://github.com/Miracle656/veil)** | `TypeScript` `React Native` `WebAuthn PRF` | Four notification categories with server sync, passkey PRF claim onboarding, and claim link expiry sweeps | [PR #1350 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1350) / [PR #1353 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1353) / [PR #1356 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1356) / *(+1 more open PRs)* |
 | **[zkpayroll/zk-payroll-dashboard](https://github.com/zkpayroll/zk-payroll-dashboard)** | `Open-Source` | feat(archive): disable retention purge while settlement is pending (#859) | [PR #977 🟣 Merged](https://github.com/zkpayroll/zk-payroll-dashboard/pull/977) |
+| **[wraith-protocol/www](https://github.com/wraith-protocol/www)** | `Open-Source` | feat(test): add route-level visual regression coverage across locales and themes (#220) | [PR #231 🟣 Merged](https://github.com/wraith-protocol/www/pull/231) |
 
 ---
 
