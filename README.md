@@ -1,8 +1,8 @@
 # Khoa Phan (Phan Đăng Khoa) 👋
 
-**Polyglot Systems, Web3 & Custom MCP Architect (`Rust` • `Go` • `TypeScript` • `Python`) | 17 Merged Upstream PRs & 6 MIT GuardKits | [`khoaphan.dev`](https://khoaphan.dev)**
+**Polyglot Systems, Web3 & Custom MCP Architect (`Rust` • `Go` • `TypeScript` • `Python`) | 18 Merged Upstream PRs & 6 MIT GuardKits | [`khoaphan.dev`](https://khoaphan.dev)**
 
-> *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — backed by 17 live merged upstream pull requests, 6 MIT open-source repositories (4 GPG-signed core guardkits), 2 live web platforms ([`vrm3d.com`](https://vrm3d.com) & [`uploadhtml.com`](https://uploadhtml.com)), and resilient Custom MCP infrastructure."*
+> *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — backed by 18 live merged upstream pull requests, 6 MIT open-source repositories (4 GPG-signed core guardkits), 2 live web platforms ([`vrm3d.com`](https://vrm3d.com) & [`uploadhtml.com`](https://uploadhtml.com)), and resilient Custom MCP infrastructure."*
 
 [![khoaphan.dev](https://img.shields.io/badge/Flagship_Hub-khoaphan.dev-0B1014?style=flat-square&logo=safari&logoColor=33F6F6)](https://khoaphan.dev)
 [![Printable CV](https://img.shields.io/badge/Printable_CV_&_PDF-/resume-0E7490?style=flat-square)](https://khoaphan.dev/resume/)
@@ -152,11 +152,11 @@ In addition to feature and protocol engineering, I conduct defensive security au
 
 ---
 
-### 🌐 Live Web Platforms & Custom Enterprise MCP Architecture
+### 🌐 Flagship Publication & Custom Enterprise MCP Architecture
 
-Beyond open-source contributions and MIT guardkits, I build and operate live web platforms and kernel-hardened Custom MCP suites:
+Beyond open-source contributions and MIT guardkits, I operate my engineering publication and kernel-hardened Custom MCP suites:
 - **[`khoaphan.dev`](https://khoaphan.dev):** Canonical engineering publication, bilingual technical series ([`/writing/`](https://khoaphan.dev/writing/)), 52-week contribution log ([`/journal/`](https://khoaphan.dev/journal/)), and printable A4 CV ([`/resume/`](https://khoaphan.dev/resume/)).
-- **[`vrm3d.com`](https://vrm3d.com) & [`uploadhtml.com`](https://uploadhtml.com):** Real-time WebGL / Three.js 3D Character & VRM Avatar Marketplace, plus instant HTML prototype hosting.
+- **[`khoaphan.dev/services/`](https://khoaphan.dev/services/) & [`/arcade/`](https://khoaphan.dev/arcade/):** Fixed-scope Agent-Native Python CLI (`--json` + Undo/Redo) packages and live 60-FPS WebGL 3D Arcade.
 - **Zero-Zombie Custom MCP Suites:** Multi-transport Model Context Protocol servers engineered with Windows Job Objects (`SetInformationJobObject`) / POSIX cgroups and `< 210ms` TCP `RST` auto-recovery (`76/76` automated tests passing).
 
 ---
