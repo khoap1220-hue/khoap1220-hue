@@ -1,8 +1,8 @@
 # Khoa Phan (Phan Đăng Khoa) 👋
 
-**Polyglot Systems, Web3 & Custom MCP Architect (`Rust` • `Go` • `TypeScript` • `Python`) | 18 Merged Upstream PRs & 6 MIT GuardKits | [`khoaphan.dev`](https://khoaphan.dev)**
+**Polyglot Systems, Web3 & Custom MCP Architect (`Rust` • `Go` • `TypeScript` • `Python`) | 20 Merged Upstream PRs & 6 MIT GuardKits | [`khoaphan.dev`](https://khoaphan.dev)**
 
-> *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — backed by 18 live merged upstream pull requests, 6 MIT open-source repositories (4 GPG-signed core guardkits), bilingual engineering articles, printable A4 CV, interactive 60-FPS 3D WebGL arcade ([`khoaphan.dev/arcade/`](https://khoaphan.dev/arcade/)), and resilient Custom MCP infrastructure."*
+> *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — backed by 20 live merged upstream pull requests, 6 MIT open-source repositories (4 GPG-signed core guardkits), bilingual engineering articles, printable A4 CV, interactive 60-FPS 3D WebGL arcade ([`khoaphan.dev/arcade/`](https://khoaphan.dev/arcade/)), and resilient Custom MCP infrastructure."*
 
 [![khoaphan.dev](https://img.shields.io/badge/Flagship_Hub-khoaphan.dev-0B1014?style=flat-square&logo=safari&logoColor=33F6F6)](https://khoaphan.dev)
 [![Printable CV](https://img.shields.io/badge/Printable_CV_&_PDF-/resume-0E7490?style=flat-square)](https://khoaphan.dev/resume/)
@@ -119,7 +119,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(17 Upstream Organizations • 18 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
+### 🚀 Selected Open-Source Contributions *(17 Upstream Organizations • 20 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
@@ -172,6 +172,7 @@ Beyond open-source contributions and MIT guardkits, I operate my engineering pub
 | **4. Senior Systems / Web3 Engineering Roles** | `Distributed Systems` `Blockchain Indexers` `High-Throughput Backends` | Full-time remote, contract, or technical advisory across `UTC+7` / US / EU overlapping hours. | **`< 4 Hours`** |
 
 - **Flagship Website & Engineering Notes:** [https://khoaphan.dev](https://khoaphan.dev) • **Printable CV / PDF:** [https://khoaphan.dev/resume/](https://khoaphan.dev/resume/)
+- **Verified Freelance & Escrow Profiles:** [Upwork (`~010e4105ba9380aa68`)](https://www.upwork.com/freelancers/~010e4105ba9380aa68) • [ugig.net (`@khoaphan-systems`)](https://ugig.net/u/khoaphan-systems) • [CROO Smart-Escrow](https://agent.croo.network/agent/3ba69034-eaf2-41d8-8a91-ce8db08c55b0)
 - **Direct Email:** [khoap1220@gmail.com](mailto:khoap1220@gmail.com) • **All Links & Brand Kit:** [khoaphan.dev/links](https://khoaphan.dev/links/) • [khoaphan.dev/brand](https://khoaphan.dev/brand/)
 - **Open-Source Community Kits (`MIT`):** [`soroban-xdr-proof-kit`](https://github.com/khoap1220-hue/soroban-xdr-proof-kit) • [`go-preflight-sql-guard`](https://github.com/khoap1220-hue/go-preflight-sql-guard) • [`ts-idempotent-webhook-guard`](https://github.com/khoap1220-hue/ts-idempotent-webhook-guard) • [`py-stream-and-billing-guard`](https://github.com/khoap1220-hue/py-stream-and-billing-guard)
 - **Location:** Vietnam (`UTC+7` — Global Remote Coverage)
