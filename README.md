@@ -1,8 +1,8 @@
 # Khoa Phan (Phan Đăng Khoa) 👋
 
-**Polyglot Systems, Web3 & Custom MCP Architect (`Rust` • `Go` • `TypeScript` • `Python`) | 18 Merged Upstream PRs & 6 MIT GuardKits | [`khoaphan.dev`](https://khoaphan.dev)**
+**Polyglot Systems, Web3 & Custom MCP Architect (`Rust` • `Go` • `TypeScript` • `Python`) | 20 Merged Upstream PRs & 6 MIT GuardKits | [`khoaphan.dev`](https://khoaphan.dev)**
 
-> *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — backed by 18 live merged upstream pull requests, 6 MIT open-source repositories (4 GPG-signed core guardkits), bilingual engineering articles, printable A4 CV, interactive 60-FPS 3D WebGL arcade ([`khoaphan.dev/arcade/`](https://khoaphan.dev/arcade/)), and resilient Custom MCP infrastructure."*
+> *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — backed by 20 live merged upstream pull requests, 6 MIT open-source repositories (4 GPG-signed core guardkits), bilingual engineering articles, printable A4 CV, interactive 60-FPS 3D WebGL arcade ([`khoaphan.dev/arcade/`](https://khoaphan.dev/arcade/)), and resilient Custom MCP infrastructure."*
 
 [![khoaphan.dev](https://img.shields.io/badge/Flagship_Hub-khoaphan.dev-0B1014?style=flat-square&logo=safari&logoColor=33F6F6)](https://khoaphan.dev)
 [![Printable CV](https://img.shields.io/badge/Printable_CV_&_PDF-/resume-0E7490?style=flat-square)](https://khoaphan.dev/resume/)
@@ -119,7 +119,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(17 Upstream Organizations • 18 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
+### 🚀 Selected Open-Source Contributions *(17 Upstream Organizations • 20 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
