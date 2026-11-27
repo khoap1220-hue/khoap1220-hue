@@ -4,10 +4,8 @@
 
 > *"I architect and ship production-grade primitives across **Rust**, **Go**, **TypeScript**, and **Python** — backed by 20 live merged upstream pull requests, 6 MIT open-source repositories (4 GPG-signed core guardkits), bilingual engineering articles, printable A4 CV, interactive 60-FPS 3D WebGL arcade ([`khoaphan.dev/arcade/`](https://khoaphan.dev/arcade/)), and resilient Custom MCP infrastructure."*
 
-[![khoaphan.dev](https://img.shields.io/badge/Flagship_Hub-khoaphan.dev-0B1014?style=flat-square&logo=safari&logoColor=33F6F6)](https://khoaphan.dev/?ref=gh-profile)
-[![Contra 0% Fee Escrow](https://img.shields.io/badge/Hire_on_Contra_(0%25_Fee)-$120--$145_Fixed-16A34A?style=flat-square)](https://contra.com/khoa_phan_abmwtndn)
-[![MCP Registry](https://img.shields.io/badge/Official_MCP_Registry-io.github.khoap1220--hue-7C3AED?style=flat-square)](https://khoaphan.dev/services/?ref=gh-profile-mcp)
-[![Printable CV](https://img.shields.io/badge/Printable_CV_&_PDF-/resume-0E7490?style=flat-square)](https://khoaphan.dev/resume/?ref=gh-profile)
+[![khoaphan.dev](https://img.shields.io/badge/Flagship_Hub-khoaphan.dev-0B1014?style=flat-square&logo=safari&logoColor=33F6F6)](https://khoaphan.dev)
+[![Printable CV](https://img.shields.io/badge/Printable_CV_&_PDF-/resume-0E7490?style=flat-square)](https://khoaphan.dev/resume/)
 ![Rust](https://img.shields.io/badge/Rust_&_Wasm-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go_1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -118,9 +116,6 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 | **4** | **[`py-stream-and-billing-guard`](https://github.com/khoap1220-hue/py-stream-and-billing-guard)** | `Python 3.10+` `FastAPI` `CLI` | **W3C SSE cross-chunk stream framing normalizer & split-token leak scanner**, integer-only `divmod` **ISO-4217 0/2/3-decimal (`JPY`/`USD`/`KWD`) & basis-point proration guard**, and `SubscriptionSchedule` transition lock. |
 | **5** | **[`solana-validator-ordering-post-alpenglow`](https://github.com/khoap1220-hue/solana-validator-ordering-post-alpenglow)** | `Python` `Rust` `Solana Mainnet RPC` | Quantitative telemetry & empirical statistical benchmark suite analyzing **Solana Mainnet validator transaction ordering** across Jito, Frankendancer, and Agave post-Alpenglow. |
 | **6** | **[`Master-Lab`](https://github.com/khoap1220-hue/Master-Lab)** | `TypeScript` `React 19` `Vite` | Open-source **Multimodal AI Creative Workbench** and **Agentic Visual Workflow Engine** (`MIT` licensed). |
-| **7** | **[`shopnex-mcp`](https://github.com/khoap1220-hue/shopnex-mcp)** | `TypeScript` `MCP SDK` `Official Registry` | **Official MCP Registry (`io.github.khoap1220-hue/shopnex-mcp`)** — ShopNex Admin REST API MCP server with JSON Schema 2020-12 CI, `BigInt` integer cents, preview-first writes, and `15/15` Vitest tests. |
-| **8** | **[`trefle-mcp`](https://github.com/khoap1220-hue/trefle-mcp)** | `Python` `MCP` `Official Registry` | **Official MCP Registry (`io.github.khoap1220-hue/trefle-mcp`)** — Read-only botanical REST API MCP server with local filter validation, Bearer header isolation, and `10/10` pytest tests. |
-| **9** | **[`senddock-python`](https://github.com/khoap1220-hue/senddock-python)** | `Python 3.9+` `Zero-Dep SDK` `HMAC` | Zero-dependency Python SDK & `hmac.compare_digest` webhook replay-window verifier mirroring `@senddock/sdk` v0.2.0 (`35/35` offline + loopback HTTP tests). |
 
 ---
 
@@ -142,7 +137,7 @@ I actively extract and publish my core engineering primitives as **free, zero-bl
 | **[BasedHardware/omi](https://github.com/BasedHardware/omi)** | `Python` `FastAPI` `Stripe Billing` | ISO-4217 Zero-Decimal (`JPY`) subscription plan-change boundary test coverage acknowledged during review of `main` merge `#23591` (`8k+ ⭐`) | [🟣 Credited in Main (#23591)](https://github.com/BasedHardware/omi/pull/23591) |
 | **[aibtcdev/x402-api](https://github.com/aibtcdev/x402-api)** | `TypeScript` `Cloudflare DO` `sBTC / x402` | Migrate HTTP 402 payment middleware and Durable Object polling engine to strict `X402_RELAY` RPC bindings with 3-stage validation | [PR #150 🟡 Open In Review](https://github.com/aibtcdev/x402-api/pull/150) |
 | **[wraith-protocol/contracts](https://github.com/wraith-protocol/contracts)** | `Rust` `Nervos CKB` `Fuzzing` | Malformed-witness and type-script adversarial fuzz corpus for contract verification | [PR #285 🟣 Merged](https://github.com/wraith-protocol/contracts/pull/285) |
-| **[Miracle656/veil](https://github.com/Miracle656/veil)** | `TypeScript` `React Native` `WebAuthn PRF` | Four notification categories with server sync, passkey PRF claim onboarding, and claim link expiry sweeps | [PR #1350 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1350) / [PR #1353 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1353) / [PR #1356 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1356) / *(+1 more open PRs)* |
+| **[Miracle656/veil](https://github.com/Miracle656/veil)** | `TypeScript` `React Native` `WebAuthn PRF` | Four notification categories with server sync, passkey PRF claim onboarding, and claim link expiry sweeps | [PR #1350 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1350) / [PR #1353 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1353) / [PR #1356 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1356) / *(+2 more open PRs)* |
 | **[zkpayroll/zk-payroll-dashboard](https://github.com/zkpayroll/zk-payroll-dashboard)** | `Open-Source` | feat(archive): disable retention purge while settlement is pending (#859) | [PR #977 🟣 Merged](https://github.com/zkpayroll/zk-payroll-dashboard/pull/977) |
 | **[wraith-protocol/www](https://github.com/wraith-protocol/www)** | `Open-Source` | feat(test): add route-level visual regression coverage across locales and themes (#220) | [PR #231 🟣 Merged](https://github.com/wraith-protocol/www/pull/231) |
 
@@ -176,8 +171,7 @@ Beyond open-source contributions and MIT guardkits, I operate my engineering pub
 | **3. Defensive Security & FinTech Audits** | `SSE / LLM Proxy Framing` `Stripe / Webhook Idempotency` `SSRF / Auth` | Reproducible containerized PoCs, fail-closed remediation patches, and strict responsible disclosure. | **`< 4 Hours`** |
 | **4. Senior Systems / Web3 Engineering Roles** | `Distributed Systems` `Blockchain Indexers` `High-Throughput Backends` | Full-time remote, contract, or technical advisory across `UTC+7` / US / EU overlapping hours. | **`< 4 Hours`** |
 
-- **Instant 0%-Fee Escrow Packages (Contra):** [Custom MCP Server (\$145 / 3d)](https://contra.com/s/Ll3krLoU-custom-mcp-server-for-claude-desktop-cursor-and-ai-agents) • [Python SDK / Scraper / FastAPI Webhook (\$120 / 3d)](https://contra.com/s/W6QZAcEB-python-sdk-playwright-scraper-or-fast-api-webhook-integration) • [Fiverr (`@khoaphan665`)](https://www.fiverr.com/khoaphan665)
-- **Flagship Website & Engineering Notes:** [https://khoaphan.dev](https://khoaphan.dev/?ref=gh-profile-footer) • **Services:** [https://khoaphan.dev/services/](https://khoaphan.dev/services/?ref=gh-profile-footer) • **Printable CV / PDF:** [https://khoaphan.dev/resume/](https://khoaphan.dev/resume/?ref=gh-profile-footer)
+- **Flagship Website & Engineering Notes:** [https://khoaphan.dev](https://khoaphan.dev) • **Printable CV / PDF:** [https://khoaphan.dev/resume/](https://khoaphan.dev/resume/)
 - **Direct Email:** [khoap1220@gmail.com](mailto:khoap1220@gmail.com) • **All Links & Brand Kit:** [khoaphan.dev/links](https://khoaphan.dev/links/) • [khoaphan.dev/brand](https://khoaphan.dev/brand/)
 - **Open-Source Community Kits (`MIT`):** [`soroban-xdr-proof-kit`](https://github.com/khoap1220-hue/soroban-xdr-proof-kit) • [`go-preflight-sql-guard`](https://github.com/khoap1220-hue/go-preflight-sql-guard) • [`ts-idempotent-webhook-guard`](https://github.com/khoap1220-hue/ts-idempotent-webhook-guard) • [`py-stream-and-billing-guard`](https://github.com/khoap1220-hue/py-stream-and-billing-guard)
 - **Location:** Vietnam (`UTC+7` — Global Remote Coverage)
