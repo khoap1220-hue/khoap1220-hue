@@ -16,56 +16,56 @@
 
 ---
 
-### 🕹️ Playable 3D Arcade Mini-Game & Pinned Open-Source Toolkits *(Click Arcade Screen to Play 60-FPS 3D Game!)*
+### 🎅🍄 Super Mario Noel 3D Arcade & Pinned Open-Source Toolkits *(Click Arcade Screen to Play 60-FPS Holiday Game!)*
 
 <p align="center">
   <a href="https://khoaphan.dev/arcade/">
-    <img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/3d/hero-3d-command-center.svg?v=5" width="99%" alt="Playable 60-FPS 3D Mini-Game: POLYGLOT CORE DEFENDER 3D — Click to Play Live!" />
+    <img src="https://raw.githubusercontent.com/khoap1220-hue/khoap1220-hue/main/assets/3d/hero-3d-command-center.svg?v=6" width="99%" alt="Playable 60-FPS 3D Holiday Mini-Game: SUPER MARIO NOEL 3D — Click to Play Live!" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://khoaphan.dev/arcade/"><img src="https://img.shields.io/badge/🕹️_PLAY_LIVE_60--FPS_3D_MINI--GAME-khoaphan.dev%2Farcade-238636?style=for-the-badge" alt="Play 60-FPS 3D Mini-Game" /></a>
+  <a href="https://khoaphan.dev/arcade/"><img src="https://img.shields.io/badge/🎅_PLAY_SUPER_MARIO_NOEL_3D_(60--FPS)-khoaphan.dev%2Farcade-da3633?style=for-the-badge" alt="Play Super Mario Noel 3D" /></a>
   <a href="https://khoaphan.dev"><img src="https://img.shields.io/badge/🌐_EXPLORE_FLAGSHIP_PORTFOLIO_&_NOTES-khoaphan.dev-0E7490?style=for-the-badge" alt="Explore khoaphan.dev" /></a>
-  <a href="https://github.com/khoap1220-hue/khoap1220-hue/blob/main/assets/3d/matrix-polyhedron-core.stl"><img src="https://img.shields.io/badge/🧊_OPEN_360°_WEBGL_3D_MODEL-.STL_CAD_Mesh_(196_Facets)-1f6feb?style=for-the-badge" alt="Open 360 WebGL STL Model" /></a>
+  <a href="https://github.com/khoap1220-hue/khoap1220-hue/blob/main/assets/3d/matrix-polyhedron-core.stl"><img src="https://img.shields.io/badge/🎄_OPEN_360°_WEBGL_3D_NOEL_WORLD-.STL_CAD_Mesh_(Pine_&_Gift_Blocks)-238636?style=for-the-badge" alt="Open 360 WebGL STL Model" /></a>
 </p>
 
 <details>
-  <summary>🎮 <b>Quick-Play Directly Inside This README (Zero Page Leave): "3:00 AM Production Incident Commander" (3 Boss Waves) — Click to Start!</b></summary>
+  <summary>🎅 🎮 <b>Quick-Play Directly Inside This README (Zero Page Leave): "Super Mario Noel — World 12-25 Gift Rescue" (3 Holiday Stages) — Click to Start!</b></summary>
   <br/>
   <blockquote>
-    <b>🚨 BOSS WAVE 1 / 3 — THE 20x CONCURRENT WEBHOOK STORM:</b><br/>
-    A payment gateway fires <b>20 identical transfer webhooks within 2 milliseconds</b> during a network retry storm. Your database balance ledger is about to credit the user 20 times! <b>Choose your defense weapon:</b>
+    <b>❄️ STAGE 12-1 / 3 — THE SNOWY WARP PIPE &amp; 20x GOOMBA CLONE STORM:</b><br/>
+    Santa Mario sprints across a snowy brick bridge as <b>20 cloned Goombas</b> burst out of a green Warp Pipe within 2ms! Above Mario gleams a golden <b><code>[?]</code> Noel Gift Block</b>. <b>Choose your move:</b>
   </blockquote>
 
   <details>
-    <summary>👉 <b>[Option A]</b> Run <code>SELECT * FROM payments WHERE ref = ?</code> followed by <code>INSERT</code></summary>
+    <summary>👉 <b>[Option A]</b> Run straight forward on icy ground without jumping</summary>
     <blockquote>
-      ❌ <b>GAME OVER (TOCTOU Race Condition!):</b> All 20 concurrent requests pass the <code>SELECT</code> check within the same 2ms window before the first <code>INSERT</code> commits. Balance credited 20×!<br/>
-      🔄 <i>Try Option B below!</i>
+      ❌ <b>MAMA MIA! (Lost Santa Cap!):</b> All 20 cloned Goombas collide at once before your jump frame commits!<br/>
+      🔄 <i>Try Option B below to jump &amp; bonk the <code>[?]</code> Gift Block!</i>
     </blockquote>
   </details>
 
   <details>
-    <summary>👉 <b>[Option B]</b> Deploy <b><code>ts-idempotent-webhook-guard</code></b> (In-Flight <code>Promise.all</code> Lock + JSONL Write-Ahead Log)</summary>
+    <summary>👉 <b>[Option B]</b> Jump &amp; Bonk <b><code>[?]</code> Gift Block</b> to unleash <b><code>ts-idempotent-webhook-guard</code></b> Star Lock!</summary>
     <blockquote>
-      🏆 <b>CRITICAL HIT (+2,500 XP • 2.5x COUNTER)!</b> Request #1 acquires the in-flight mutex and writes to the durable JSONL WAL; Requests #2–#20 immediately receive <code>{ duplicate: true }</code> in <code>0.08ms</code>!<br/><br/>
-      <b>🔥 UNLOCKED BOSS WAVE 2 / 3 — THE SPLIT-PACKET SSE SECRET LEAK:</b><br/>
-      An AI streaming endpoint splits an OpenAI secret key across two TCP chunks: Chunk 1 ends with <code>sk-proj-abc</code> and Chunk 2 starts with <code>1234567890...</code>. Per-chunk regex misses it! <b>Choose your next weapon:</b>
+      🍄 <b>1-UP + SUPER MUSHROOM (+2,500 PTS • 2.5x STOMP COMBO)!</b> Santa Mario bounces off Goomba #1 while the JSONL WAL Star Lock freezes Clones #2–#20 into harmless snowballs in <code>0.08ms</code>!<br/><br/>
+      <b>🔥 UNLOCKED STAGE 12-2 / 3 — FROZEN BRIDGE &amp; SPLIT-ICICLE BARRAGE:</b><br/>
+      Flying Paragoombas drop split-packet icicles across a snowy chasm hiding leaked API keys inside Christmas gift tags! <b>Grab your Holiday Power-Up:</b>
 
       <details>
-        <summary>👉 <b>[Deploy 🐍 <code>py-stream-and-billing-guard</code>]</b> Cross-Chunk <code>SSEFrameAssembler</code> + Sliding-Window DLP</summary>
+        <summary>👉 <b>[Grab 🔥 <code>py-stream-and-billing-guard</code> Fire Flower]</b> Bouncing Fireballs + Cross-Chunk Holiday Tag Scanner</summary>
         <blockquote>
-          🏆 <b>DOUBLE KILL (+5,000 XP)!</b> The W3C SSE frame assembler reconstructs split chunks across TCP boundaries and redacts the leaked token before flush!<br/><br/>
-          <b>👑 FINAL BOSS WAVE 3 / 3 — THE TAMPERED STELLAR XDR LEDGER HEADER:</b><br/>
-          A malicious RPC node feeds your indexer a 400-byte binary <code>LedgerHeader</code> XDR frame with a forged <code>previous_ledger_hash</code> link at sequence <code>#54,000,002</code>!
+          🪙 <b>COIN FRENZY (+5,000 PTS • 🪙 ×99 NOEL COINS)!</b> Bouncing Mario Fireballs melt every icicle mid-air and safely seal all holiday gift tags!<br/><br/>
+          <b>🎄 FINAL STAGE 12-25 / 3 — FROST KING CASTLE &amp; NORTH POLE STAR FLAGPOLE:</b><br/>
+          Giant Frost-Koopa guards the snowy drawbridge right in front of the twinkling Christmas Tree &amp; North Pole Flagpole!
 
           <details>
-            <summary>👉 <b>[Unleash 🦀 <code>soroban-xdr-proof-kit</code> + 🐹 <code>go-preflight-sql-guard</code>]</b> RFC 4506 Binary XDR + FIPS 180-4 SHA-256 Ancestry Proof</summary>
+            <summary>👉 <b>[Activate ⭐ Invincible Noel Star: 🦀 <code>soroban-xdr-proof-kit</code> + 🐹 <code>go-preflight-sql-guard</code>]</b> Triple Jump Over Boss &amp; Grab Top of Flagpole!</summary>
             <blockquote>
-              🎉 <b>VICTORY — SOVEREIGN POLYGLOT ARCHITECT RANK UNLOCKED! (SCORE: 15,000 / 15,000 • 99.999% UPTIME)</b><br/>
-              ✔ Forged XDR frame rejected in <code>0.12ms</code> via deterministic SHA-256 hash-link verification!<br/>
-              👉 <b>Want real-time 60-FPS 3D action with Mouse/WASD aiming &amp; sound? <a href="https://khoaphan.dev/arcade/">Launch the full 3D WebGL/Canvas Arcade Game on khoaphan.dev/arcade ↗</a></b>
+              🎆 <b>COURSE CLEAR — MERRY CHRISTMAS &amp; HAPPY HOLIDAYS! (SCORE: 15,000 / 15,000 • TOP OF THE FLAGPOLE +5,000!)</b><br/>
+              ✔ Frost-Koopa flipped in <code>0.12ms</code> • Holiday Fireworks launched over the Cozy Noel Castle!<br/>
+              👉 <b>Want real-time 60-FPS Mario running, stomping, <code>[?]</code> Gift Blocks, snowfall &amp; 8-bit Jingle Bells audio? <a href="https://khoaphan.dev/arcade/">Play Super Mario Noel 3D Live on khoaphan.dev/arcade ↗</a></b>
             </blockquote>
           </details>
         </blockquote>
