@@ -1,13 +1,12 @@
 # Khoa Phan (Phan Đăng Khoa) 👋
 
 **Independent Systems, Web3 & Custom MCP Engineer (`Rust` · `Go` · `TypeScript` · `Python`)**
-**Former Head of R&D at APECGLOBAL Economic Group (2020–2023, past role)** · **22+ Merged Upstream PRs** · **[`khoaphan.dev/services`](https://khoaphan.dev/services/?ref=gh-profile-readme)**
+**Former Head of R&D at APECGLOBAL Economic Group (2020–2023, past role)** · **22 Merged Upstream PRs** · **[`khoaphan.dev/services`](https://khoaphan.dev/services/?ref=gh-profile-readme)**
 
 > **Async-Only Engineering Policy (100% Written Specs & GitHub PRs — No Live Meetings):** All engagements run **100% asynchronously via written specifications, reproducible clean-room PoCs, and GPG-signed pull requests** (`UTC+7` · `< 2h` written response).
 
 [![Flagship Hub](https://img.shields.io/badge/Flagship_Hub-khoaphan.dev-0B1014?style=flat-square&logo=safari&logoColor=33F6F6)](https://khoaphan.dev)
 [![Services & Sprints](https://img.shields.io/badge/Services_&_Sprints-khoaphan.dev%2Fservices-0E7490?style=flat-square)](https://khoaphan.dev/services/?ref=gh-profile-readme)
-[![Gumroad Toolkits](https://img.shields.io/badge/Gumroad_Toolkits-$19--$39_Instant_Download-FF90E8?style=flat-square)](https://khoaphan.dev/services/#gumroad-toolkits)
 [![Contra 0% Fee Escrow](https://img.shields.io/badge/Contra_Escrow_(0%25_Fee)-$65--$145_Sprints-111827?style=flat-square)](https://contra.com/khoa_phan_abmwtndn)
 [![Apify Store](https://img.shields.io/badge/Apify_Store-@khoaphan-238636?style=flat-square)](https://apify.com/khoaphan)
 [![Super Mario Noel 3D](https://img.shields.io/badge/🎅_Mario_Noel_3D-/arcade-da3633?style=flat-square)](https://khoaphan.dev/arcade/)
@@ -109,8 +108,8 @@ Production Model Context Protocol (`stdio` / JSON Schema 2020-12) servers publis
 
 | Category | Package / Store Listing | Stack | Engineering Scope & Verification |
 | :--- | :--- | :--- | :--- |
-| **Apify Store Actor** | **[`apify.com/khoaphan/eaa-accessibility-auditor`](https://apify.com/khoaphan/eaa-accessibility-auditor)** ([Source](https://github.com/khoap1220-hue/apify-eaa-accessibility-auditor) · [Live Example ↗](https://apify.com/khoaphan/eaa-accessibility-auditor/examples/audit-shopify-eu-storefront-eaa-wcag22)) | `Python` · `Apify SDK v3` | Directive (EU) 2019/882 (EAA), EN 301 549 & WCAG 2.2 AA e-commerce checkout readiness auditor for Apify, n8n & MCP |
-| **Apify Store Actor** | **[`apify.com/khoaphan/b2b-contact-auditor`](https://apify.com/khoaphan/b2b-contact-auditor)** ([Source](https://github.com/khoap1220-hue/apify-b2b-contact-auditor) · [Live Example ↗](https://apify.com/khoaphan/b2b-contact-auditor/examples/verify-b2b-agency-domain-contacts-tech-stack)) | `Python` · `Apify SDK v3` | `robots.txt`-compliant B2B contact, tech-stack & `MX`/`SPF`/`DMARC` DNS deliverability auditor Actor |
+| **Apify Store Actor** | **[`apify.com/khoaphan/eaa-accessibility-auditor`](https://apify.com/khoaphan/eaa-accessibility-auditor)** ([Source](https://github.com/khoap1220-hue/apify-eaa-accessibility-auditor)) | `Python` · `Apify SDK v3` | Directive (EU) 2019/882 (EAA), EN 301 549 & WCAG 2.2 AA e-commerce checkout readiness auditor for Apify, n8n & MCP |
+| **Apify Store Actor** | **[`apify.com/khoaphan/b2b-contact-auditor`](https://apify.com/khoaphan/b2b-contact-auditor)** ([Source](https://github.com/khoap1220-hue/apify-b2b-contact-auditor)) | `Python` · `Apify SDK v3` | `robots.txt`-compliant B2B contact, tech-stack & `MX`/`SPF`/`DMARC` DNS deliverability auditor Actor |
 | **n8n Community Node** | **[`n8n-nodes-wasphere`](https://github.com/khoap1220-hue/n8n-nodes-wasphere)** | `TypeScript` · `n8n` | Clean-room WaSphere WhatsApp Cloud & WA Server node with Dashboard Proxy auth, AI Agent tool mode & HMAC-SHA256 webhook trigger |
 | **Official Python SDK** | **[`senddock-python`](https://github.com/khoap1220-hue/senddock-python)** · **[`SendDock/senddock-python#1`](https://github.com/SendDock/senddock-python/pull/1)** | `Python 3.9–3.13` | Typed Python SDK mirroring `@senddock/sdk` v0.2.0 one-to-one (`5/5` Python 3.9–3.13 CI matrix passing; upstream PR `#1`) |
 | **Temporal Python SDK** | **[`workflowbuilder-temporal-py`](https://github.com/khoap1220-hue/workflowbuilder-temporal-py)** | `Python` · `Temporal` | Temporal Python SDK runner & Draft 2020-12 JSON Schema contract counterpart for `@workflowbuilder/temporal` (`#268`) |
@@ -123,19 +122,7 @@ Production Model Context Protocol (`stdio` / JSON Schema 2020-12) servers publis
 
 ---
 
-### 3. Instant Self-Serve Toolkits (Gumroad — Instant Download, `$19–$39`)
-
-Deploy production-ready Docker, n8n, and webhook source kits immediately without waiting on custom scoping:
-
-| Toolkit | Price | Stack | What You Get (Instant Download) | Gumroad Link |
-| :--- | :---: | :--- | :--- | :--- |
-| **KIT-01: Auto-Fulfillment Shop Kit** | **`$39`** | `TypeScript` · `SQLite WAL` | Replay-safe payment webhook handler (WAL locks + constant-time HMAC), atomic stock decrement & automated warranty replacement | [Get KIT-01 (`$39`) ↗](https://khoapster1.gumroad.com/l/auto-fulfillment-shop-kit) |
-| **PACK-02: n8n SMB Automation Pack** | **`$29`** | `n8n JSON` · `Webhooks / CRM` | Import-ready SMB & agency workflow bundle for idempotent webhook ingestion, B2B contact enrichment, invoice sync & dead-letter alerts | [Get PACK-02 (`$29`) ↗](https://khoapster1.gumroad.com/l/n8n-smb-automation-pack) |
-| **KIT-03: EAA / WCAG 2.2 Auditor API** | **`$19`** | `Docker` · `FastAPI` | Self-hosted Directive (EU) 2019/882 & WCAG 2.2 AA storefront scanner with SSRF guards and unlimited JSON + Markdown compliance reports | [Get KIT-03 (`$19`) ↗](https://khoapster1.gumroad.com/l/eaa-wcag-auditor-api) |
-
----
-
-### 4. Async Engineering Sprints (`0%`-Fee Escrow · 100% Written Specs, No Live Meetings)
+### 3. Async Engineering Sprints (`0%`-Fee Escrow · 100% Written Specs, No Live Meetings)
 
 Fixed-scope deliverables shipped asynchronously from written specs with automated unit tests, GPG-signed commits, and a **30-day bug warranty**:
 
