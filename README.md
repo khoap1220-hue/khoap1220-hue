@@ -3,7 +3,7 @@
 **Independent Systems, Web3 & Custom MCP Engineer (`Rust` · `Go` · `TypeScript` · `Python`)**
 **Former Head of R&D at APECGLOBAL Economic Group (2020–2023, past role)** · **20 Merged Upstream PRs** · **[`khoaphan.dev/services`](https://khoaphan.dev/services/?ref=gh-profile-readme)**
 
-> **Async-Only Engineering Policy (`0` Video Calls):** All engagements run **100% asynchronously via written specifications, reproducible clean-room PoCs, and GPG-signed pull requests** (`UTC+7` · `< 2h` written response).
+> **Async-Only Engineering Policy (100% Written Specs & GitHub PRs — No Live Meetings):** All engagements run **100% asynchronously via written specifications, reproducible clean-room PoCs, and GPG-signed pull requests** (`UTC+7` · `< 2h` written response).
 
 [![Flagship Hub](https://img.shields.io/badge/Flagship_Hub-khoaphan.dev-0B1014?style=flat-square&logo=safari&logoColor=33F6F6)](https://khoaphan.dev)
 [![Services & Sprints](https://img.shields.io/badge/Services_&_Sprints-khoaphan.dev%2Fservices-0E7490?style=flat-square)](https://khoaphan.dev/services/?ref=gh-profile-readme)
@@ -122,7 +122,7 @@ Production Model Context Protocol (`stdio` / JSON Schema 2020-12) servers publis
 
 ---
 
-### 3. Async Engineering Sprints (`0%`-Fee Escrow · `0` Video Calls)
+### 3. Async Engineering Sprints (`0%`-Fee Escrow · 100% Written Specs, No Live Meetings)
 
 Fixed-scope deliverables shipped asynchronously from written specs with automated unit tests, GPG-signed commits, and a **30-day bug warranty**:
 
@@ -135,7 +135,7 @@ Fixed-scope deliverables shipped asynchronously from written specs with automate
 
 - **Services Catalog & Architecture Briefs:** [`https://khoaphan.dev/services/?ref=gh-profile-readme`](https://khoaphan.dev/services/?ref=gh-profile-readme)
 - **Contra Storefront (`0%` Commission Escrow):** [`https://contra.com/khoa_phan_abmwtndn`](https://contra.com/khoa_phan_abmwtndn)
-- **Workflow:** `100%` written specs, async chat/email (`khoa@khoaphan.dev`), bounded upfront PoCs when needed, and clean pull requests — **`0` Zoom/Meet calls**.
+- **Workflow:** `100%` written specs, async chat/email (`khoa@khoaphan.dev`), bounded upfront PoCs when needed, and clean GitHub pull requests (no live meetings).
 
 ---
 
