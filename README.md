@@ -1,7 +1,7 @@
 # Khoa Phan (Phan Đăng Khoa) 👋
 
 **Independent Systems, Web3 & Custom MCP Engineer (`Rust` · `Go` · `TypeScript` · `Python`)**
-**Former Head of R&D at APECGLOBAL Economic Group (2020–2023, past role)** · **20 Merged Upstream PRs** · **[`khoaphan.dev/services`](https://khoaphan.dev/services/?ref=gh-profile-readme)**
+**Former Head of R&D at APECGLOBAL Economic Group (2020–2023, past role)** · **21 Merged Upstream PRs** · **[`khoaphan.dev/services`](https://khoaphan.dev/services/?ref=gh-profile-readme)**
 
 > **Async-Only Engineering Policy (100% Written Specs & GitHub PRs — No Live Meetings):** All engagements run **100% asynchronously via written specifications, reproducible clean-room PoCs, and GPG-signed pull requests** (`UTC+7` · `< 2h` written response).
 
@@ -139,7 +139,7 @@ Fixed-scope deliverables shipped asynchronously from written specs with automate
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(18 Upstream Organizations • 20 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
+### 🚀 Selected Open-Source Contributions *(18 Upstream Organizations • 21 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
