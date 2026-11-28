@@ -139,7 +139,7 @@ Fixed-scope deliverables shipped asynchronously from written specs with automate
 
 ---
 
-### 🚀 Selected Open-Source Contributions *(17 Upstream Organizations • 20 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
+### 🚀 Selected Open-Source Contributions *(18 Upstream Organizations • 20 Merged Upstream PRs 🟣 • 1 Credited in `BasedHardware/omi` Main 🟣 • Active Open PRs In Review 🟡)*
 
 | Repository | Stack | Engineering Scope & Contribution | Exact Status & Verification |
 | :--- | :--- | :--- | :--- |
@@ -158,6 +158,7 @@ Fixed-scope deliverables shipped asynchronously from written specs with automate
 | **[aibtcdev/x402-api](https://github.com/aibtcdev/x402-api)** | `TypeScript` `Cloudflare DO` `sBTC / x402` | Migrate HTTP 402 payment middleware and Durable Object polling engine to strict `X402_RELAY` RPC bindings with 3-stage validation | [PR #150 🟡 Open In Review](https://github.com/aibtcdev/x402-api/pull/150) |
 | **[wraith-protocol/contracts](https://github.com/wraith-protocol/contracts)** | `Rust` `Nervos CKB` `Fuzzing` | Malformed-witness and type-script adversarial fuzz corpus for contract verification | [PR #285 🟣 Merged](https://github.com/wraith-protocol/contracts/pull/285) |
 | **[Miracle656/veil](https://github.com/Miracle656/veil)** | `TypeScript` `React Native` `WebAuthn PRF` | Four notification categories with server sync, passkey PRF claim onboarding, and claim link expiry sweeps | [PR #1350 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1350) / [PR #1353 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1353) / [PR #1356 🟡 Open In Review](https://github.com/Miracle656/veil/pull/1356) / *(+2 more open PRs)* |
+| **[Lelu-ai/lelu](https://github.com/Lelu-ai/lelu)** | `Open-Source` | feat(sdk-python): send confidence_signal and add signal_from builders | [PR #160 🟣 Merged](https://github.com/Lelu-ai/lelu/pull/160) |
 | **[zkpayroll/zk-payroll-dashboard](https://github.com/zkpayroll/zk-payroll-dashboard)** | `Open-Source` | feat(archive): disable retention purge while settlement is pending (#859) | [PR #977 🟣 Merged](https://github.com/zkpayroll/zk-payroll-dashboard/pull/977) |
 | **[wraith-protocol/www](https://github.com/wraith-protocol/www)** | `Open-Source` | feat(test): add route-level visual regression coverage across locales and themes (#220) | [PR #231 🟣 Merged](https://github.com/wraith-protocol/www/pull/231) |
 
